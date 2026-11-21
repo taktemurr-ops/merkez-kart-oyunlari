@@ -1,28 +1,40 @@
 import 'package:flutter/material.dart';
+import 'package:oyun_batak_cesitleri/oyun_batak_cesitleri.dart';
+import 'package:oyun_solitaire_cesitleri/oyun_solitaire_cesitleri.dart';
 import 'package:oyun_31/oyun_31.dart';
 import 'package:oyun_accordion_solitaire/oyun_accordion_solitaire.dart';
 import 'package:oyun_balik_tut/oyun_balik_tut.dart';
 import 'package:oyun_baskan/oyun_baskan.dart';
 import 'package:oyun_batak/oyun_batak.dart';
+import 'package:oyun_belot/oyun_belot.dart';
+import 'package:oyun_bezik/oyun_bezik.dart';
 import 'package:oyun_blof/oyun_blof.dart';
 import 'package:oyun_bric_benzeri_whist/oyun_bric_benzeri_whist.dart';
 import 'package:oyun_briscola/oyun_briscola.dart';
 import 'package:oyun_canfield/oyun_canfield.dart';
 import 'package:oyun_clock_solitaire/oyun_clock_solitaire.dart';
+import 'package:oyun_euchre/oyun_euchre.dart';
 import 'package:oyun_forty_thieves/oyun_forty_thieves.dart';
 import 'package:oyun_freecell/oyun_freecell.dart';
 import 'package:oyun_golf_solitaire/oyun_golf_solitaire.dart';
 import 'package:oyun_hearts/oyun_hearts.dart';
+import 'package:oyun_jass/oyun_jass.dart';
+import 'package:oyun_kart_hafiza/oyun_kart_hafiza.dart';
 import 'package:oyun_king/oyun_king.dart';
+import 'package:oyun_klaverjas/oyun_klaverjas.dart';
 import 'package:oyun_klondike_solitaire/oyun_klondike_solitaire.dart';
+import 'package:oyun_kontrat_bric/oyun_kontrat_bric.dart';
+import 'package:oyun_koyun_basi/oyun_koyun_basi.dart';
 import 'package:oyun_oh_hell/oyun_oh_hell.dart';
 import 'package:oyun_papaz_kacti/oyun_papaz_kacti.dart';
+import 'package:oyun_pinokl/oyun_pinokl.dart';
 import 'package:oyun_pisti/oyun_pisti.dart';
 import 'package:oyun_pyramid_solitaire/oyun_pyramid_solitaire.dart';
 import 'package:oyun_renk_esle_kart_oyunu/oyun_renk_esle_kart_oyunu.dart';
 import 'package:oyun_savas/oyun_savas.dart';
 import 'package:oyun_scopa/oyun_scopa.dart';
 import 'package:oyun_scorpion_solitaire/oyun_scorpion_solitaire.dart';
+import 'package:oyun_skat/oyun_skat.dart';
 import 'package:oyun_spades/oyun_spades.dart';
 import 'package:oyun_spider_solitaire/oyun_spider_solitaire.dart';
 import 'package:oyun_sueca/oyun_sueca.dart';
@@ -138,7 +150,18 @@ final hubConfig = HubConfig(
     balikConfig,
     blofConfig,
     otuzbirConfig,
+    kartHafizaConfig,
+    euchreConfig,
+    beloteConfig,
+    klaverjasConfig,
+    jassConfig,
+    pinochleConfig,
+    skatConfig,
+    sheepsheadConfig,
+    bridgeConfig,
+    bezikConfig,
   ],
+  groups: [batakCesitGroup, solCesitGroup],
 );
 
 void main() => bootstrapHub(hubConfig);

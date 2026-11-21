@@ -36,8 +36,18 @@ void main() {
       'oyun-balik-tut',
       'oyun-blof',
       'oyun-31',
+      'oyun-kart-hafiza',
+      'oyun-euchre',
+      'oyun-belot',
+      'oyun-klaverjas',
+      'oyun-jass',
+      'oyun-pinokl',
+      'oyun-skat',
+      'oyun-koyun-basi',
+      'oyun-kontrat-bric',
+      'oyun-bezik',
     ]);
-    expect(all.length, ids.length);
+    expect(all.length, ids.length + 105);
     expect(all.toSet().length, all.length);
     expect(ids.toSet().length, ids.length);
     for (final g in hubConfig.allGames) {

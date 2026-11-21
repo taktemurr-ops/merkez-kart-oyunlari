@@ -135,6 +135,54 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-31
       ref: 92bd972cb8271fcd72ed35f7be3c770ef251a554
+  oyun_kart_hafiza:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kart-hafiza
+      ref: ef9b113f203517cb54d155978960cd62d2febc3a
+  oyun_euchre:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-euchre
+      ref: 5119d263161e3d602717a27c7003670907b9fcd7
+  oyun_belot:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-belot
+      ref: 3feb218de43d486ade1c9c4d799a8991ca48fcdf
+  oyun_klaverjas:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-klaverjas
+      ref: c2bbe2bb6215700d44b51c08e8bb0be2c9bee140
+  oyun_jass:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-jass
+      ref: 1d335b2a688e83f7df8f0364de5a8d1e27249830
+  oyun_pinokl:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pinokl
+      ref: 025aa0de99fa5a17b7db24c3c579532514f2ea33
+  oyun_skat:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-skat
+      ref: a1e7c497ad25a410c6e6eeac049094ef54794a3d
+  oyun_koyun_basi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-koyun-basi
+      ref: 0c3fe31822f099b9c29153779beb9b4e7a601712
+  oyun_kontrat_bric:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kontrat-bric
+      ref: cc0ae1470567dc9b2f62f8e2668a20f67e45b483
+  oyun_bezik:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bezik
+      ref: 18e2fc258d7e8f34013383e297bf9c6c56ba9bfa
+  oyun_batak_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-batak-cesitleri
+      ref: 9016cefaaddf214e5ba4892431c34d02a1628449
+  oyun_solitaire_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-solitaire-cesitleri
+      ref: 283b1927bb278f033bc675b7dc0581993869bc8b
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -152,7 +200,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: e9c4dfec3eeefae6486dd26eec5235652b599548
+      ref: b7f6a0de089ab9f6a1437afbe29f2bd015b872b2
 
 dev_dependencies:
   flutter_test:

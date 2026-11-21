@@ -34,5 +34,17 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Balık Tut | [oyun-balik-tut](https://github.com/taktemurr-ops/oyun-balik-tut) |
 | Blöf | [oyun-blof](https://github.com/taktemurr-ops/oyun-blof) |
 | 31 | [oyun-31](https://github.com/taktemurr-ops/oyun-31) |
+| Kart Hafızası | [oyun-kart-hafiza](https://github.com/taktemurr-ops/oyun-kart-hafiza) |
+| Euchre | [oyun-euchre](https://github.com/taktemurr-ops/oyun-euchre) |
+| Belot | [oyun-belot](https://github.com/taktemurr-ops/oyun-belot) |
+| Klaverjas | [oyun-klaverjas](https://github.com/taktemurr-ops/oyun-klaverjas) |
+| Jass | [oyun-jass](https://github.com/taktemurr-ops/oyun-jass) |
+| Pinokl | [oyun-pinokl](https://github.com/taktemurr-ops/oyun-pinokl) |
+| Skat | [oyun-skat](https://github.com/taktemurr-ops/oyun-skat) |
+| Koyun Başı | [oyun-koyun-basi](https://github.com/taktemurr-ops/oyun-koyun-basi) |
+| Kontrat Briç | [oyun-kontrat-bric](https://github.com/taktemurr-ops/oyun-kontrat-bric) |
+| Bezik | [oyun-bezik](https://github.com/taktemurr-ops/oyun-bezik) |
+| Batak Çeşitleri (5 çeşit) | [oyun-batak-cesitleri](https://github.com/taktemurr-ops/oyun-batak-cesitleri) |
+| Solitaire Çeşitleri (100 çeşit) | [oyun-solitaire-cesitleri](https://github.com/taktemurr-ops/oyun-solitaire-cesitleri) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk

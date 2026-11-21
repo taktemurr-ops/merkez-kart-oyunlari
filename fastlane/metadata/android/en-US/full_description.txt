@@ -14,6 +14,10 @@ Card Games gathers well-loved patience games and classic card games against smar
 • Clock: Let every card find its hour!
 • Batak, Hearts, Spades, Whist, Exact Call, Briscola, Sueca, King: against smart rivals, every level winnable.
 • Pishti, Scopa, Sum Catch, Suit Match, Card Battle, Chairman, Odd King Out, Fish for Fours, Bluff Pile, Thirty-One: table games against AI rivals, move by move.
+• Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Sheepshead, Contract Bridge, Bezique: beloved trick-taking games from around the world, against smart rivals.
+• Card Recall: a memory game with real card faces, 100,000 levels.
+• Batak Variety: partners, spade trump, high bids and more.
+• Solitaire Variety: 100 rule variations, 1,000,000 solvable deals in all.
 
 Highlights
 • 100,000 levels per game; every deal is checked by a solver, so every one can be won.
