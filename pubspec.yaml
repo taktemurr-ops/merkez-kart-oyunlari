@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a7ddfea62f592700e4bf94ddaa51ecd3f83744d2
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_klondike_solitaire:
     git:
@@ -95,6 +95,46 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-king
       ref: 31873352aeb6b52d2ffe63145906f4d1c88a0b9b
+  oyun_pisti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pisti
+      ref: 47a3cc007956d5e05ccd30b663f5325f7db5dee7
+  oyun_scopa:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-scopa
+      ref: 870490c086e5495570d40712e96798c15c2045f2
+  oyun_toplam_al:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-toplam-al
+      ref: 9d9be9b93feb31b3151925a7256137e2129651d8
+  oyun_renk_esle_kart_oyunu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-renk-esle-kart-oyunu
+      ref: 6cabd0d8e231bacb13c15264a31a24b8abd73631
+  oyun_savas:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-savas
+      ref: 0e2ddc759337b57cf290a47c7756052b0c639d02
+  oyun_baskan:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-baskan
+      ref: 1024250b5bd682763f992d819e6b737764cb37b3
+  oyun_papaz_kacti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-papaz-kacti
+      ref: 2a71c5263a025770ab6c47f1860a35125ec59ac0
+  oyun_balik_tut:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-balik-tut
+      ref: c1ec26475ba55659cb42cd627d35da7b6b99bf48
+  oyun_blof:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-blof
+      ref: 7e87e1a0bdb89df0d8071a8ed41c20a0abefddd4
+  oyun_31:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-31
+      ref: 92bd972cb8271fcd72ed35f7be3c770ef251a554
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -108,11 +148,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a7ddfea62f592700e4bf94ddaa51ecd3f83744d2
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: b28e397e029393604724335f751a8a637fae9e6d
+      ref: e9c4dfec3eeefae6486dd26eec5235652b599548
 
 dev_dependencies:
   flutter_test:

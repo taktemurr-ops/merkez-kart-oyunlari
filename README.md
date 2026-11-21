@@ -24,5 +24,15 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Briscola | [oyun-briscola](https://github.com/taktemurr-ops/oyun-briscola) |
 | Sueca | [oyun-sueca](https://github.com/taktemurr-ops/oyun-sueca) |
 | King | [oyun-king](https://github.com/taktemurr-ops/oyun-king) |
+| Pişti | [oyun-pisti](https://github.com/taktemurr-ops/oyun-pisti) |
+| Scopa | [oyun-scopa](https://github.com/taktemurr-ops/oyun-scopa) |
+| Toplam Al | [oyun-toplam-al](https://github.com/taktemurr-ops/oyun-toplam-al) |
+| Renk Eşle | [oyun-renk-esle-kart-oyunu](https://github.com/taktemurr-ops/oyun-renk-esle-kart-oyunu) |
+| Kart Savaşı | [oyun-savas](https://github.com/taktemurr-ops/oyun-savas) |
+| Başkan | [oyun-baskan](https://github.com/taktemurr-ops/oyun-baskan) |
+| Papaz Kaçtı | [oyun-papaz-kacti](https://github.com/taktemurr-ops/oyun-papaz-kacti) |
+| Balık Tut | [oyun-balik-tut](https://github.com/taktemurr-ops/oyun-balik-tut) |
+| Blöf | [oyun-blof](https://github.com/taktemurr-ops/oyun-blof) |
+| 31 | [oyun-31](https://github.com/taktemurr-ops/oyun-31) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk

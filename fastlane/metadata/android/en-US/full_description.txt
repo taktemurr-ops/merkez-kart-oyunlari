@@ -13,6 +13,7 @@ Card Games gathers well-loved patience games and classic card games against smar
 • Accordion: Squeeze fifty-two cards into a few piles!
 • Clock: Let every card find its hour!
 • Batak, Hearts, Spades, Whist, Exact Call, Briscola, Sueca, King: against smart rivals, every level winnable.
+• Pishti, Scopa, Sum Catch, Suit Match, Card Battle, Chairman, Odd King Out, Fish for Fours, Bluff Pile, Thirty-One: table games against AI rivals, move by move.
 
 Highlights
 • 100,000 levels per game; every deal is checked by a solver, so every one can be won.

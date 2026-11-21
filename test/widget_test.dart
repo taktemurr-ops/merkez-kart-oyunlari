@@ -26,6 +26,16 @@ void main() {
       'oyun-briscola',
       'oyun-sueca',
       'oyun-king',
+      'oyun-pisti',
+      'oyun-scopa',
+      'oyun-toplam-al',
+      'oyun-renk-esle-kart-oyunu',
+      'oyun-savas',
+      'oyun-baskan',
+      'oyun-papaz-kacti',
+      'oyun-balik-tut',
+      'oyun-blof',
+      'oyun-31',
     ]);
     expect(all.length, ids.length);
     expect(all.toSet().length, all.length);
