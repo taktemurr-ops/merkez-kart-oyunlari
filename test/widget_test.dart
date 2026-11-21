@@ -46,6 +46,18 @@ void main() {
       'oyun-koyun-basi',
       'oyun-kontrat-bric',
       'oyun-bezik',
+      'oyun-gin-remi',
+      'oyun-kart-remi',
+      'oyun-konken',
+      'oyun-asamali-remi',
+      'oyun-kanasta',
+      'oyun-el-ve-ayak',
+      'oyun-cribbage',
+      'oyun-durak',
+      'oyun-snap',
+      'oyun-hiz',
+      'oyun-nertz',
+      'oyun-kemps',
     ]);
     expect(all.length, ids.length + 105);
     expect(all.toSet().length, all.length);

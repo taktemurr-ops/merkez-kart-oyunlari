@@ -44,7 +44,17 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Koyun Başı | [oyun-koyun-basi](https://github.com/taktemurr-ops/oyun-koyun-basi) |
 | Kontrat Briç | [oyun-kontrat-bric](https://github.com/taktemurr-ops/oyun-kontrat-bric) |
 | Bezik | [oyun-bezik](https://github.com/taktemurr-ops/oyun-bezik) |
-| Batak Çeşitleri (5 çeşit) | [oyun-batak-cesitleri](https://github.com/taktemurr-ops/oyun-batak-cesitleri) |
-| Solitaire Çeşitleri (100 çeşit) | [oyun-solitaire-cesitleri](https://github.com/taktemurr-ops/oyun-solitaire-cesitleri) |
+| Gin Remi | [oyun-gin-remi](https://github.com/taktemurr-ops/oyun-gin-remi) |
+| Kart Remi | [oyun-kart-remi](https://github.com/taktemurr-ops/oyun-kart-remi) |
+| Konken | [oyun-konken](https://github.com/taktemurr-ops/oyun-konken) |
+| Aşamalı Remi | [oyun-asamali-remi](https://github.com/taktemurr-ops/oyun-asamali-remi) |
+| Kanasta | [oyun-kanasta](https://github.com/taktemurr-ops/oyun-kanasta) |
+| El ve Ayak | [oyun-el-ve-ayak](https://github.com/taktemurr-ops/oyun-el-ve-ayak) |
+| Cribbage | [oyun-cribbage](https://github.com/taktemurr-ops/oyun-cribbage) |
+| Durak | [oyun-durak](https://github.com/taktemurr-ops/oyun-durak) |
+| Eşini Yakala | [oyun-snap](https://github.com/taktemurr-ops/oyun-snap) |
+| Hız | [oyun-hiz](https://github.com/taktemurr-ops/oyun-hiz) |
+| Nertz | [oyun-nertz](https://github.com/taktemurr-ops/oyun-nertz) |
+| Kemps | [oyun-kemps](https://github.com/taktemurr-ops/oyun-kemps) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk
