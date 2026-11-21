@@ -1,4 +1,4 @@
-Card Games gathers well-loved patience games in one app, with its own card design. Every game keeps its own progress, missions and achievements.
+Card Games gathers well-loved patience games and classic card games against smart rivals in one app, with its own card design. Every game keeps its own progress, missions and achievements.
 
 • Klondike: The classic patience, every deal solvable.
 • Spider: Two decks, build runs, clear the table!
@@ -12,6 +12,7 @@ Card Games gathers well-loved patience games in one app, with its own card desig
 • Canfield: The starting rank changes every deal!
 • Accordion: Squeeze fifty-two cards into a few piles!
 • Clock: Let every card find its hour!
+• Batak, Hearts, Spades, Whist, Exact Call, Briscola, Sueca, King: against smart rivals, every level winnable.
 
 Highlights
 • 100,000 levels per game; every deal is checked by a solver, so every one can be won.

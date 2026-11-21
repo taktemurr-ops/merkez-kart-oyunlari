@@ -18,6 +18,14 @@ void main() {
       'oyun-canfield',
       'oyun-accordion-solitaire',
       'oyun-clock-solitaire',
+      'oyun-batak',
+      'oyun-hearts',
+      'oyun-spades',
+      'oyun-bric-benzeri-whist',
+      'oyun-oh-hell',
+      'oyun-briscola',
+      'oyun-sueca',
+      'oyun-king',
     ]);
     expect(all.length, ids.length);
     expect(all.toSet().length, all.length);

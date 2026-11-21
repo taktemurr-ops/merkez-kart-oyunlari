@@ -16,5 +16,13 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Canfield | [oyun-canfield](https://github.com/taktemurr-ops/oyun-canfield) |
 | Akordeon | [oyun-accordion-solitaire](https://github.com/taktemurr-ops/oyun-accordion-solitaire) |
 | Saat | [oyun-clock-solitaire](https://github.com/taktemurr-ops/oyun-clock-solitaire) |
+| Batak | [oyun-batak](https://github.com/taktemurr-ops/oyun-batak) |
+| Kupa Kaçırma | [oyun-hearts](https://github.com/taktemurr-ops/oyun-hearts) |
+| Maça Koz | [oyun-spades](https://github.com/taktemurr-ops/oyun-spades) |
+| Whist | [oyun-bric-benzeri-whist](https://github.com/taktemurr-ops/oyun-bric-benzeri-whist) |
+| Tahmin | [oyun-oh-hell](https://github.com/taktemurr-ops/oyun-oh-hell) |
+| Briscola | [oyun-briscola](https://github.com/taktemurr-ops/oyun-briscola) |
+| Sueca | [oyun-sueca](https://github.com/taktemurr-ops/oyun-sueca) |
+| King | [oyun-king](https://github.com/taktemurr-ops/oyun-king) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk

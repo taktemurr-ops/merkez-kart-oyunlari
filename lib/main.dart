@@ -1,14 +1,22 @@
 import 'package:flutter/material.dart';
 import 'package:oyun_accordion_solitaire/oyun_accordion_solitaire.dart';
+import 'package:oyun_batak/oyun_batak.dart';
+import 'package:oyun_bric_benzeri_whist/oyun_bric_benzeri_whist.dart';
+import 'package:oyun_briscola/oyun_briscola.dart';
 import 'package:oyun_canfield/oyun_canfield.dart';
 import 'package:oyun_clock_solitaire/oyun_clock_solitaire.dart';
 import 'package:oyun_forty_thieves/oyun_forty_thieves.dart';
 import 'package:oyun_freecell/oyun_freecell.dart';
 import 'package:oyun_golf_solitaire/oyun_golf_solitaire.dart';
+import 'package:oyun_hearts/oyun_hearts.dart';
+import 'package:oyun_king/oyun_king.dart';
 import 'package:oyun_klondike_solitaire/oyun_klondike_solitaire.dart';
+import 'package:oyun_oh_hell/oyun_oh_hell.dart';
 import 'package:oyun_pyramid_solitaire/oyun_pyramid_solitaire.dart';
 import 'package:oyun_scorpion_solitaire/oyun_scorpion_solitaire.dart';
+import 'package:oyun_spades/oyun_spades.dart';
 import 'package:oyun_spider_solitaire/oyun_spider_solitaire.dart';
+import 'package:oyun_sueca/oyun_sueca.dart';
 import 'package:oyun_tripeaks_solitaire/oyun_tripeaks_solitaire.dart';
 import 'package:oyun_yukon_solitaire/oyun_yukon_solitaire.dart';
 import 'package:studio_core/app/hub.dart';
@@ -102,6 +110,14 @@ final hubConfig = HubConfig(
     canfieldConfig,
     accordionConfig,
     clockConfig,
+    batakConfig,
+    heartsConfig,
+    spadesConfig,
+    whistConfig,
+    ohhellConfig,
+    briscolaConfig,
+    suecaConfig,
+    kingConfig,
   ],
 );
 

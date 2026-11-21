@@ -1,4 +1,4 @@
-Kart Oyunları, sevilen sabır oyunlarını kendine özgü kart tasarımıyla tek uygulamada toplar. Her oyunun kendi kayıtları, görevleri ve başarımları vardır.
+Kart Oyunları, sevilen sabır oyunlarını ve yapay zekâ rakiplere karşı oynanan klasik kart oyunlarını kendine özgü kart tasarımıyla tek uygulamada toplar. Her oyunun kendi kayıtları, görevleri ve başarımları vardır.
 
 • Klondike: Klasik sabır oyunu, her dağıtım çözülebilir.
 • Örümcek: İki desteyle seriler kur, tahtayı temizle!
@@ -12,6 +12,7 @@ Kart Oyunları, sevilen sabır oyunlarını kendine özgü kart tasarımıyla te
 • Canfield: Başlangıç kartı her seferinde değişir!
 • Akordeon: Elli iki kartı birkaç yığına sıkıştır!
 • Saat: Kartlar saatin etrafında yerini bulsun!
+• Batak, Kupa Kaçırma, Maça Koz, Whist, Tahmin, Briscola, Sueca, King: akıllı rakiplere karşı, her bölüm kazanılabilir.
 
 Öne çıkanlar
 • Oyun başına 100.000 bölüm; her dağıtım bir çözücüyle denetlenir, hepsinin çözümü vardır.
