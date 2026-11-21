@@ -1,0 +1,118 @@
+name: merkez_kart_oyunlari
+description: "Kart Oyunları merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: b0baaf5f52a8615c54ca42b68ceeb95a8eba37fe
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_klondike_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-klondike-solitaire
+      ref: 9f1d4ff1211555f4857273e53cc77b8a0de493e1
+  oyun_spider_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-spider-solitaire
+      ref: 1812126eb9340bd671ddd61320ca2ecb3cb914e9
+  oyun_freecell:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-freecell
+      ref: ea33857ee1fd90db6cdae27a1e35aa9625ee518a
+  oyun_pyramid_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pyramid-solitaire
+      ref: 362eaf3c909b156d3f74ee899ff5b9741797ac01
+  oyun_tripeaks_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tripeaks-solitaire
+      ref: 9a1fc9feb5b343b5eec2e6a7058a0bd4f01c86e6
+  oyun_golf_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-golf-solitaire
+      ref: 564ac45699fd89a976295bb7ae002e8e66edcf9c
+  oyun_yukon_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yukon-solitaire
+      ref: 2d1dbad26faa9f19c5795b6e8f6f6504762f84bc
+  oyun_scorpion_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-scorpion-solitaire
+      ref: 2b9cb1ac3e1991e36e6852b3d8c9ded2e6dc1fad
+  oyun_forty_thieves:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-forty-thieves
+      ref: c9859481ecb415b4baed14961cc40041da2cf61a
+  oyun_canfield:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-canfield
+      ref: 13fc03bfe49cd97887c4e0383925ce653e34a03a
+  oyun_accordion_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-accordion-solitaire
+      ref: 477ed646f5fb75a9b7c5ecd63f0f38b6e6f29980
+  oyun_clock_solitaire:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-clock-solitaire
+      ref: 3084d741feba94393d0eca2c44a84a7cf118f0b3
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve kart motoru sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: b0baaf5f52a8615c54ca42b68ceeb95a8eba37fe
+  kart_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/kart-motoru
+      ref: 40fdcd186c0a0e705281ae590cbabf3801b05a6b
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#283593"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#283593"
+    theme_color: "#283593"
+
+flutter_native_splash:
+  color: "#283593"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#283593"
+    image: assets/branding/splash_android12.png
+  web: true
