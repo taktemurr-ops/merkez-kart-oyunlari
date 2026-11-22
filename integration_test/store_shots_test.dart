@@ -300,7 +300,7 @@ void main() {
                 device: device,
                 caption: storeCaptions[k][li],
                 rtl: Strings(lang).rtl,
-                screen: _gameScreen(cfg, g, shot.resume(g), lang),
+                screen: KeyedSubtree(key: ValueKey('${shot.gameId}-$lang-$tablet'), child: _gameScreen(cfg, g, shot.resume(g), lang)),
               ),
             ),
           ));
