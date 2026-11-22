@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 0f9ca12727b05f31a54decf2c6bad137b3524f55
+      ref: 7f57b58f0077d3f889da6c5cc06ddca5eed9030b
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_klondike_solitaire:
     git:
@@ -256,11 +256,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 0f9ca12727b05f31a54decf2c6bad137b3524f55
+      ref: 7f57b58f0077d3f889da6c5cc06ddca5eed9030b
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 67bf69f9ab68638653ed4f544a6a9ef166e40e7e
+      ref: 0ff3fa5eb5557293aa7694308ce231dd230609b0
 
 dev_dependencies:
   flutter_test:
