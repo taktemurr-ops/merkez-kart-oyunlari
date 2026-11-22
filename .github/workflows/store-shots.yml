@@ -19,11 +19,7 @@ env:
 jobs:
   shots:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
-    strategy:
-      fail-fast: false
-      matrix:
-        profile: [pixel_7, pixel_tablet]
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -50,20 +46,20 @@ jobs:
           echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
           sudo udevadm control --reload-rules
           sudo udevadm trigger --name-match=kvm
-      - name: Capture on emulator (${{ matrix.profile }})
+      - name: Capture on emulator (phone + tablet frames drawn off-screen)
         uses: reactivecircus/android-emulator-runner@v2
         with:
           api-level: 34
           target: google_apis
           arch: x86_64
-          profile: ${{ matrix.profile }}
+          profile: pixel_7
           disable-animations: true
-          script: flutter drive --driver=test_driver/integration_test.dart --target=integration_test/store_shots_test.dart --dart-define=LANGS=${{ github.event.inputs.langs }} -d emulator-5554
+          script: bash tool/store_shots.sh "${{ github.event.inputs.langs }}"
       - run: python tool/crop_store.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: store-shots-${{ matrix.profile }}
+          name: store-shots
           path: shots/store/
           retention-days: 30
 
@@ -73,7 +69,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v4
         with:
-          pattern: store-shots-*
+          pattern: store-shots*
           path: all
           merge-multiple: true
       - run: |

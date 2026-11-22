@@ -1,9 +1,12 @@
 // Mağaza görselleri: gerçek oyun ekranlarını 33 dilde, başlıklı bir
 // çerçeve içinde çizer ve ekran görüntüsü alır. Yalnızca store-shots iş
 // akışında çalışır (flutter drive). Çıktıyı tool/crop_store.py kırpar.
+import 'dart:convert';
 import 'dart:math' as math;
+import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
@@ -240,54 +243,77 @@ Widget _feature(String lang) {
   );
 }
 
-/// Kırpma ölçüsü dosya adına yazılır (Android'de ek bilgi gönderilemiyor).
-String _crop(Size box, double dpr) => '__${(box.width * dpr).round()}x${(box.height * dpr).round()}';
+/// Görüntü, ekran boyutundan bağımsız olarak [RepaintBoundary] ile çizilir;
+/// böylece telefon ve tablet görselleri tek bir öykünücüde üretilir.
+final _shotKey = GlobalKey();
+
+Widget _offscreen(Size size, Widget child) => OverflowBox(
+      alignment: Alignment.topLeft,
+      minWidth: 0,
+      minHeight: 0,
+      maxWidth: double.infinity,
+      maxHeight: double.infinity,
+      child: RepaintBoundary(key: _shotKey, child: SizedBox(width: size.width, height: size.height, child: child)),
+    );
+
+Future<String> _capture(WidgetTester tester, double pixelRatio) async {
+  final boundary = _shotKey.currentContext!.findRenderObject()! as RenderRepaintBoundary;
+  final bytes = await tester.runAsync(() async {
+    final image = await boundary.toImage(pixelRatio: pixelRatio);
+    final data = await image.toByteData(format: ui.ImageByteFormat.png);
+    image.dispose();
+    return data!.buffer.asUint8List();
+  });
+  return base64Encode(bytes!);
+}
 
 void main() {
   final binding = IntegrationTestWidgetsFlutterBinding.ensureInitialized();
 
   testWidgets('mağaza görselleri', (tester) async {
-    await binding.convertFlutterSurfaceToImage();
     await tester.pumpAndSettle();
-    final view = tester.view;
-    final logical = view.physicalSize / view.devicePixelRatio;
-    final tablet = logical.shortestSide >= 600;
-    // Telefon 9:16, tablet 16:9 kutusu; kalan alan kırpılır.
-    final box = tablet ? Size(logical.width, logical.width * 9 / 16) : Size(logical.width, logical.width * 16 / 9);
-    final device = tablet ? const Size(1000, 620) : const Size(400, 800);
+    // Telefon 1080×1920 (9:16), tablet 1920×1080 (16:9), öne çıkan 1024×500.
+    const phoneBox = Size(360, 640), tabletBox = Size(1280, 720);
     const only = String.fromEnvironment('LANGS');
     final langs = only.isEmpty ? Strings.languages : only.split(',');
     final games = {for (final g in hub.hubConfig.allGames) g.gameId: g};
     final built = <String, GeneratedLevel>{};
+    final out = <String, String>{};
     for (final lang in langs) {
       final li = Strings.languages.indexOf(lang);
-      for (var k = 0; k < _shots.length; k++) {
-        final shot = _shots[k];
-        final cfg = games[shot.gameId]!;
-        final g = built.putIfAbsent(shot.gameId,
-            () => cfg.rules.build(LevelPlanner(gameId: cfg.gameId, optionalMechanics: cfg.rules.optionalMechanics).spec(shot.level)));
-        await tester.pumpWidget(_app(
-          lang,
-          _storeFrame(
-            box: box,
-            device: device,
-            caption: storeCaptions[k][li],
-            rtl: Strings(lang).rtl,
-            screen: _gameScreen(cfg, g, shot.resume(g), lang),
-          ),
-        ));
-        for (var i = 0; i < 8; i++) {
-          await tester.pump(const Duration(milliseconds: 150));
+      for (final tablet in [false, true]) {
+        final box = tablet ? tabletBox : phoneBox;
+        final device = tablet ? const Size(1000, 620) : const Size(400, 800);
+        for (var k = 0; k < _shots.length; k++) {
+          final shot = _shots[k];
+          final cfg = games[shot.gameId]!;
+          final g = built.putIfAbsent(shot.gameId,
+              () => cfg.rules.build(LevelPlanner(gameId: cfg.gameId, optionalMechanics: cfg.rules.optionalMechanics).spec(shot.level)));
+          await tester.pumpWidget(_app(
+            lang,
+            _offscreen(
+              box,
+              _storeFrame(
+                box: box,
+                device: device,
+                caption: storeCaptions[k][li],
+                rtl: Strings(lang).rtl,
+                screen: _gameScreen(cfg, g, shot.resume(g), lang),
+              ),
+            ),
+          ));
+          for (var i = 0; i < 8; i++) {
+            await tester.pump(const Duration(milliseconds: 150));
+          }
+          out['${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}'] = await _capture(tester, tablet ? 1.5 : 3);
         }
-        await binding.takeScreenshot('${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}${_crop(box, view.devicePixelRatio)}');
       }
-      if (tablet) {
-        await tester.pumpWidget(_app(lang, _feature(lang)));
-        await tester.pump(const Duration(milliseconds: 300));
-        await binding.takeScreenshot('feature_$lang${_crop(const Size(512, 250), view.devicePixelRatio)}');
-      }
+      await tester.pumpWidget(_app(lang, _offscreen(const Size(512, 250), _feature(lang))));
+      await tester.pump(const Duration(milliseconds: 300));
+      out['feature_$lang'] = await _capture(tester, 2);
       // Bir sonraki dil için oyun ekranlarını temizle (zamanlayıcılar dursun).
       await tester.pumpWidget(const SizedBox());
     }
-  }, timeout: const Timeout(Duration(minutes: 50)));
+    binding.reportData = {'shots': out};
+  }, timeout: const Timeout(Duration(minutes: 30)));
 }
