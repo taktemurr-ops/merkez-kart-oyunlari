@@ -1,0 +1,19 @@
+Pinagsasama ng Mga Laro ng Baraha ang 55 laro ng baraha at 105 bersyon sa iisang app, gamit ang sarili naming disenyo ng baraha. Solitaire, mga klasikong laban sa matatalinong kalaban at orihinal na card puzzle; may sariling progreso, misyon at tagumpay ang bawat laro.
+
+• Solitaire: Klondike, Gagamba, Bakanteng Selda, Piramide, Tatlong Tuktok, Golf, Yukon, Alakdan, Apatnapung Magnanakaw, Canfield, Akordiyon, Orasan
+• Trick-taking: Batak, Puso, Espada, Whist, Eksaktong Hula, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Ulo ng Tupa, Contract Bridge, Bezique, French Tarot
+• Mga larong mesa: Pişti, Scopa, Pagsamahin at Kunin, Itugma ang Suit, Labanan ng Baraha, Pangulo, Ang Nag-iisang Hari, Pangingisda ng Apat, Tumpok ng Bluff, Tatlumpu't Isa
+• Rummy at iba pa: Gin Rummy, Rummy, Konken, Rummy na may Kontrata, Canasta, Kamay at Paa, Cribbage, Durak
+• Real-time: Hulihin ang Pares, Bilis, Nertz, Kemps
+• Puzzle at memorya: Landas ng Baraha, Parisukat ng Baraha, Alaala ng Baraha
+• Mga variety pack: Mga Uri ng Batak (5), Sari-saring Solitaire (100)
+
+Mga tampok
+• 50,000–100,000 level bawat laro; sinusuri ng solver o malakas na AI ang bawat bigay, kaya bawat level ay maipapanalo.
+• Pahiwatig, undo at awtomatikong pagtatapos.
+• Pang-araw-araw at lingguhang level, misyon at tagumpay.
+• Apat-na-kulay na baraha para sa color blind, 33 wika.
+• Nalalaro offline sa phone, tablet at web.
+• Walang sugal, pustahan o 18+ na nilalaman.
+
+Ang mga binili (gaya ng pag-alis ng ads) ay para sa lahat ng laro sa app.
