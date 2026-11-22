@@ -240,7 +240,8 @@ Widget _feature(String lang) {
   );
 }
 
-Map<String, Object?> _crop(Size box, double dpr) => {'w': (box.width * dpr).round(), 'h': (box.height * dpr).round()};
+/// Kırpma ölçüsü dosya adına yazılır (Android'de ek bilgi gönderilemiyor).
+String _crop(Size box, double dpr) => '__${(box.width * dpr).round()}x${(box.height * dpr).round()}';
 
 void main() {
   final binding = IntegrationTestWidgetsFlutterBinding.ensureInitialized();
@@ -278,12 +279,12 @@ void main() {
         for (var i = 0; i < 8; i++) {
           await tester.pump(const Duration(milliseconds: 150));
         }
-        await binding.takeScreenshot('${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}', _crop(box, view.devicePixelRatio));
+        await binding.takeScreenshot('${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}${_crop(box, view.devicePixelRatio)}');
       }
       if (tablet) {
         await tester.pumpWidget(_app(lang, _feature(lang)));
         await tester.pump(const Duration(milliseconds: 300));
-        await binding.takeScreenshot('feature_$lang', _crop(const Size(512, 250), view.devicePixelRatio));
+        await binding.takeScreenshot('feature_$lang${_crop(const Size(512, 250), view.devicePixelRatio)}');
       }
       // Bir sonraki dil için oyun ekranlarını temizle (zamanlayıcılar dursun).
       await tester.pumpWidget(const SizedBox());
