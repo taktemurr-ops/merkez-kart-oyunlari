@@ -191,6 +191,7 @@ final hubConfig = HubConfig(
     kartYoluConfig,
     kartKaresiConfig,
   ],
+  starters: ['oyun-klondike-solitaire', 'oyun-batak', 'oyun-pisti'],
   groups: [batakCesitGroup, solCesitGroup],
   sections: [
     HubSection(
