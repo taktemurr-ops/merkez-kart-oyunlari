@@ -85,3 +85,34 @@ jobs:
           gh release view store -R ${{ github.repository }} >/dev/null 2>&1 || \
             gh release create store -R ${{ github.repository }} --title "Mağaza görselleri" --notes "33 dilde telefon/tablet ekran görüntüleri ve öne çıkan görsel." --prerelease
           gh release upload store store-graphics.zip -R ${{ github.repository }} --clobber
+      - name: Preview sheet (first language) on store-preview branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pip install pillow==11.0.0 >/dev/null
+          python - <<'PY'
+          import glob, os
+          from PIL import Image
+          files = sorted(glob.glob('all/**/*.png', recursive=True))
+          langs = sorted({os.path.basename(os.path.dirname(f)) for f in files})
+          lang = 'tr' if 'tr' in langs else langs[0]
+          pick = [f for f in files if os.path.basename(os.path.dirname(f)) == lang]
+          thumbs = []
+          for f in pick:
+              im = Image.open(f).convert('RGB')
+              im.thumbnail((360, 360))
+              thumbs.append(im)
+          w = sum(t.width for t in thumbs) + 10 * (len(thumbs) + 1)
+          h = max(t.height for t in thumbs) + 20
+          sheet = Image.new('RGB', (w, h), (40, 40, 40))
+          x = 10
+          for t in thumbs:
+              sheet.paste(t, (x, 10)); x += t.width + 10
+          os.makedirs('preview', exist_ok=True)
+          sheet.save('preview/sheet.jpg', quality=85)
+          PY
+          cd preview
+          git init -q -b store-preview
+          git config user.name "store-bot"; git config user.email "store-bot@users.noreply.github.com"
+          git add sheet.jpg && git commit -qm "Mağaza görselleri önizleme"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}" store-preview
