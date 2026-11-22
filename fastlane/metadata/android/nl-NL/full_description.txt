@@ -9,7 +9,7 @@ Kaartspellen brengt 55 kaartspellen en 105 varianten samen in één app, met een
 • Variantenpakketten: Batak-varianten (5), Patiencevariatie (100)
 
 Hoogtepunten
-• 50.000–100.000 levels per spel; elke deling wordt gecontroleerd door een oplosser of sterke AI, elk level is te winnen.
+• 100.000 levels per spel; elke deling wordt gecontroleerd door een oplosser of sterke AI, elk level is te winnen.
 • Hints, ongedaan maken en automatisch afronden.
 • Dagelijkse en wekelijkse levels, missies en prestaties.
 • Vierkleurige kaarten bij kleurenblindheid, 33 talen.

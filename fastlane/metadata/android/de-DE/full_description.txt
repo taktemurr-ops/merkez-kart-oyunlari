@@ -9,7 +9,7 @@ Kartenspiele vereint 55 Kartenspiele und 105 Varianten in einer App, mit eigenem
 • Variantenpakete: Batak-Vielfalt (5), Patience-Vielfalt (100)
 
 Highlights
-• 50.000–100.000 Level pro Spiel; jede Verteilung wird von einem Löser oder einer starken KI geprüft, jedes Level ist schaffbar.
+• 100.000 Level pro Spiel; jede Verteilung wird von einem Löser oder einer starken KI geprüft, jedes Level ist schaffbar.
 • Tipps, Rückgängig und automatisches Beenden.
 • Tägliche und wöchentliche Level, Aufgaben und Erfolge.
 • Vierfarbige Karten bei Farbenblindheit, 33 Sprachen.

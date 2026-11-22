@@ -9,7 +9,7 @@ Gry Karciane łączy 55 gier karcianych i 105 wariantów w jednej aplikacji, z w
 • Pakiety wariantów: Odmiany Bataka (5), Rozmaitość Pasjansów (100)
 
 Najważniejsze
-• 50 000–100 000 poziomów w każdej grze; każde rozdanie sprawdza solver lub silna SI, każdy poziom da się wygrać.
+• 100 000 poziomów w każdej grze; każde rozdanie sprawdza solver lub silna SI, każdy poziom da się wygrać.
 • Podpowiedzi, cofanie i automatyczne kończenie.
 • Poziomy dzienne i tygodniowe, misje i osiągnięcia.
 • Czterokolorowe karty dla daltonistów, 33 języki.

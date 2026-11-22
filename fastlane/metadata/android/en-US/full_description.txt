@@ -9,7 +9,7 @@ Card Games brings 55 card games and 105 variants together in one app, with our o
 • Variety packs: Batak Variety (5), Solitaire Variety (100)
 
 Highlights
-• 50,000–100,000 levels per game; every deal is checked by a solver or a strong AI, so every level can be won.
+• 100,000 levels per game; every deal is checked by a solver or a strong AI, so every level can be won.
 • Hints, undo and auto-finish.
 • Daily and weekly levels, missions and achievements.
 • Four-colour cards for colour blindness, 33 languages.

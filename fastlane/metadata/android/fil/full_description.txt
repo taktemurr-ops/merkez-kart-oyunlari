@@ -9,7 +9,7 @@ Pinagsasama ng Mga Laro ng Baraha ang 55 laro ng baraha at 105 bersyon sa iisang
 • Mga variety pack: Mga Uri ng Batak (5), Sari-saring Solitaire (100)
 
 Mga tampok
-• 50,000–100,000 level bawat laro; sinusuri ng solver o malakas na AI ang bawat bigay, kaya bawat level ay maipapanalo.
+• 100,000 level bawat laro; sinusuri ng solver o malakas na AI ang bawat bigay, kaya bawat level ay maipapanalo.
 • Pahiwatig, undo at awtomatikong pagtatapos.
 • Pang-araw-araw at lingguhang level, misyon at tagumpay.
 • Apat-na-kulay na baraha para sa color blind, 33 wika.

@@ -9,7 +9,7 @@ A(z) Kártyajátékok 55 kártyajátékot és 105 változatot hoz egy appba, saj
 • Változatcsomagok: Batak Változatok (5), Pasziánszválogatás (100)
 
 Kiemelt
-• Játékonként 50 000–100 000 pálya; minden osztást megoldó vagy erős MI ellenőriz, így minden pálya megnyerhető.
+• Játékonként 100 000 pálya; minden osztást megoldó vagy erős MI ellenőriz, így minden pálya megnyerhető.
 • Tippek, visszavonás és automatikus befejezés.
 • Napi és heti pályák, küldetések és eredmények.
 • Négyszínű lapok színtévesztőknek, 33 nyelv.

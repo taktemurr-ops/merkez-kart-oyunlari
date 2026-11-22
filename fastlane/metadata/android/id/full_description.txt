@@ -9,7 +9,7 @@ Permainan Kartu menghadirkan 55 permainan kartu dan 105 varian dalam satu aplika
 • Paket varian: Ragam Batak (5), Aneka Solitaire (100)
 
 Sorotan
-• 50.000–100.000 level per permainan; setiap pembagian diperiksa pemecah atau AI kuat, jadi setiap level bisa dimenangkan.
+• 100.000 level per permainan; setiap pembagian diperiksa pemecah atau AI kuat, jadi setiap level bisa dimenangkan.
 • Petunjuk, urungkan, dan selesai otomatis.
 • Level harian dan mingguan, misi, dan pencapaian.
 • Kartu empat warna untuk buta warna, 33 bahasa.

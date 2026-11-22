@@ -9,7 +9,7 @@ Juegos de Cartas reúne 55 juegos de cartas y 105 variantes en una sola app, con
 • Paquetes de variantes: Variedad de Batak (5), Variedad de Solitarios (100)
 
 Lo más destacado
-• 50.000–100.000 niveles por juego; cada reparto lo revisa un solucionador o una IA fuerte, así que todos se pueden ganar.
+• 100.000 niveles por juego; cada reparto lo revisa un solucionador o una IA fuerte, así que todos se pueden ganar.
 • Pistas, deshacer y final automático.
 • Niveles diarios y semanales, misiones y logros.
 • Cartas de cuatro colores para daltonismo, 33 idiomas.

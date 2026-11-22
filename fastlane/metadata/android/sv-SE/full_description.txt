@@ -9,7 +9,7 @@ Kortspel samlar 55 kortspel och 105 varianter i en app, med egen kortdesign. Pat
 • Variantpaket: Batakvarianter (5), Patiensvariation (100)
 
 Höjdpunkter
-• 50 000–100 000 nivåer per spel; varje giv kontrolleras av en lösare eller stark AI, så varje nivå går att vinna.
+• 100 000 nivåer per spel; varje giv kontrolleras av en lösare eller stark AI, så varje nivå går att vinna.
 • Ledtrådar, ångra och automatisk avslutning.
 • Dagliga och veckovisa nivåer, uppdrag och prestationer.
 • Fyrfärgade kort för färgblindhet, 33 språk.

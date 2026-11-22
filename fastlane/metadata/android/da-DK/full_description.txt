@@ -9,7 +9,7 @@ Kortspil samler 55 kortspil og 105 varianter i én app med vores eget kortdesign
 • Variantpakker: Batakvarianter (5), Kabalevariation (100)
 
 Højdepunkter
-• 50.000–100.000 baner pr. spil; hver kortgivning tjekkes af en løser eller stærk AI, så alle baner kan vindes.
+• 100.000 baner pr. spil; hver kortgivning tjekkes af en løser eller stærk AI, så alle baner kan vindes.
 • Tips, fortryd og automatisk afslutning.
 • Daglige og ugentlige baner, missioner og præstationer.
 • Firfarvede kort ved farveblindhed, 33 sprog.

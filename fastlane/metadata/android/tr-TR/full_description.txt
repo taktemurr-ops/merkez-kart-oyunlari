@@ -9,7 +9,7 @@ Kart Oyunları, 55 kart oyununu ve 105 çeşidi stüdyonun kendine özgü kart t
 • Çeşit paketleri: Batak Çeşitleri (5), Solitaire Çeşitleri (100)
 
 Öne çıkanlar
-• Oyun başına 50.000–100.000 bölüm; her dağıtım çözücü ya da güçlü yapay zekâyla denetlenir, her bölüm kazanılabilir.
+• Oyun başına 100.000 bölüm; her dağıtım çözücü ya da güçlü yapay zekâyla denetlenir, her bölüm kazanılabilir.
 • İpucu, geri al ve otomatik bitirme.
 • Günlük ve haftalık bölümler, görevler, başarımlar.
 • Renk körlüğü için dört renkli kartlar, 33 dil.

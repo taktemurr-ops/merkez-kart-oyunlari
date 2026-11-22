@@ -9,7 +9,7 @@ Jeux de Cartes réunit 55 jeux de cartes et 105 variantes dans une seule appli, 
 • Packs de variantes: Variantes de Batak (5), Variété de Réussites (100)
 
 Points forts
-• 50 000 à 100 000 niveaux par jeu ; chaque donne est vérifiée par un solveur ou une IA forte, chaque niveau peut être gagné.
+• 100 000 niveaux par jeu ; chaque donne est vérifiée par un solveur ou une IA forte, chaque niveau peut être gagné.
 • Indices, annulation et fin automatique.
 • Niveaux quotidiens et hebdomadaires, missions et succès.
 • Cartes quatre couleurs pour le daltonisme, 33 langues.

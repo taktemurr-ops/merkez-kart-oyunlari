@@ -9,7 +9,7 @@ Karetní hry spojuje 55 karetních her a 105 variant v jedné aplikaci s vlastn�
 • Balíčky variant: Varianty Bataku (5), Mix Pasiánsů (100)
 
 Hlavní přednosti
-• 50 000–100 000 úrovní v každé hře; každé rozdání ověřuje řešitel nebo silná AI, každou úroveň lze vyhrát.
+• 100 000 úrovní v každé hře; každé rozdání ověřuje řešitel nebo silná AI, každou úroveň lze vyhrát.
 • Nápovědy, zpět a automatické dokončení.
 • Denní a týdenní úrovně, úkoly a úspěchy.
 • Čtyřbarevné karty pro barvoslepé, 33 jazyků.

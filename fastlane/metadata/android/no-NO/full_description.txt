@@ -9,7 +9,7 @@ Kortspill samler 55 kortspill og 105 varianter i én app med vårt eget kortdesi
 • Variantpakker: Batakvarianter (5), Kabalvariasjon (100)
 
 Høydepunkter
-• 50 000–100 000 nivåer per spill; hver utdeling sjekkes av en løser eller sterk KI, så alle nivåer kan vinnes.
+• 100 000 nivåer per spill; hver utdeling sjekkes av en løser eller sterk KI, så alle nivåer kan vinnes.
 • Hint, angre og automatisk fullføring.
 • Daglige og ukentlige nivåer, oppdrag og prestasjoner.
 • Firefargede kort for fargeblinde, 33 språk.

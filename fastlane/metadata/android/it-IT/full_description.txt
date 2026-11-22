@@ -9,7 +9,7 @@ Giochi di Carte riunisce 55 giochi di carte e 105 varianti in un'unica app, con 
 • Pacchetti di varianti: Varianti di Batak (5), Varietà di Solitari (100)
 
 In evidenza
-• Da 50.000 a 100.000 livelli per gioco; ogni smazzata è verificata da un risolutore o da un'IA forte, ogni livello si può vincere.
+• Da 100.000 livelli per gioco; ogni smazzata è verificata da un risolutore o da un'IA forte, ogni livello si può vincere.
 • Suggerimenti, annulla e chiusura automatica.
 • Livelli giornalieri e settimanali, missioni e obiettivi.
 • Carte a quattro colori per il daltonismo, 33 lingue.

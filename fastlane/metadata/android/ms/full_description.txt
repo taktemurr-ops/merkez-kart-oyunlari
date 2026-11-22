@@ -9,7 +9,7 @@ Permainan Kad menghimpunkan 55 permainan kad dan 105 varian dalam satu aplikasi 
 • Pek varian: Ragam Batak (5), Aneka Solitaire (100)
 
 Sorotan
-• 50,000–100,000 tahap setiap permainan; setiap agihan disemak oleh penyelesai atau AI kuat, jadi setiap tahap boleh dimenangi.
+• 100,000 tahap setiap permainan; setiap agihan disemak oleh penyelesai atau AI kuat, jadi setiap tahap boleh dimenangi.
 • Petunjuk, buat asal dan tamat automatik.
 • Tahap harian dan mingguan, misi dan pencapaian.
 • Kad empat warna untuk buta warna, 33 bahasa.

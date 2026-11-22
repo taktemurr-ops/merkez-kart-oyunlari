@@ -9,7 +9,7 @@ Korttipelit kokoaa 55 korttipeliä ja 105 muunnelmaa yhteen sovellukseen omalla 
 • Muunnelmapaketit: Batak-muunnelmat (5), Pasianssivalikoima (100)
 
 Kohokohdat
-• 50 000–100 000 tasoa peliä kohden; jokaisen jaon tarkistaa ratkaisija tai vahva tekoäly, joten jokainen taso on voitettavissa.
+• 100 000 tasoa peliä kohden; jokaisen jaon tarkistaa ratkaisija tai vahva tekoäly, joten jokainen taso on voitettavissa.
 • Vihjeet, kumoa ja automaattinen lopetus.
 • Päivittäiset ja viikoittaiset tasot, tehtävät ja saavutukset.
 • Nelivärikortit värisokeille, 33 kieltä.

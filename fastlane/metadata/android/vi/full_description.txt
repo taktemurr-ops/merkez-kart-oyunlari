@@ -9,7 +9,7 @@ Trò Chơi Bài gom 55 trò chơi bài và 105 biến thể vào một ứng d�
 • Gói biến thể: Các Kiểu Batak (5), Solitaire Muôn Kiểu (100)
 
 Điểm nổi bật
-• 50.000–100.000 màn mỗi trò; mỗi lần chia bài đều được bộ giải hoặc AI mạnh kiểm tra, màn nào cũng thắng được.
+• 100.000 màn mỗi trò; mỗi lần chia bài đều được bộ giải hoặc AI mạnh kiểm tra, màn nào cũng thắng được.
 • Gợi ý, hoàn tác và tự hoàn tất.
 • Màn hằng ngày, hằng tuần, nhiệm vụ và thành tích.
 • Lá bài bốn màu cho người mù màu, 33 ngôn ngữ.
