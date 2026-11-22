@@ -58,6 +58,9 @@ void main() {
       'oyun-hiz',
       'oyun-nertz',
       'oyun-kemps',
+      'oyun-tarok',
+      'oyun-kart-yolu',
+      'oyun-kart-karesi',
     ]);
     expect(all.length, ids.length + 105);
     expect(all.toSet().length, all.length);

@@ -27,7 +27,9 @@ import 'package:oyun_hiz/oyun_hiz.dart';
 import 'package:oyun_jass/oyun_jass.dart';
 import 'package:oyun_kanasta/oyun_kanasta.dart';
 import 'package:oyun_kart_hafiza/oyun_kart_hafiza.dart';
+import 'package:oyun_kart_karesi/oyun_kart_karesi.dart';
 import 'package:oyun_kart_remi/oyun_kart_remi.dart';
+import 'package:oyun_kart_yolu/oyun_kart_yolu.dart';
 import 'package:oyun_kemps/oyun_kemps.dart';
 import 'package:oyun_king/oyun_king.dart';
 import 'package:oyun_klaverjas/oyun_klaverjas.dart';
@@ -50,6 +52,7 @@ import 'package:oyun_snap/oyun_snap.dart';
 import 'package:oyun_spades/oyun_spades.dart';
 import 'package:oyun_spider_solitaire/oyun_spider_solitaire.dart';
 import 'package:oyun_sueca/oyun_sueca.dart';
+import 'package:oyun_tarok/oyun_tarok.dart';
 import 'package:oyun_toplam_al/oyun_toplam_al.dart';
 import 'package:oyun_tripeaks_solitaire/oyun_tripeaks_solitaire.dart';
 import 'package:oyun_yukon_solitaire/oyun_yukon_solitaire.dart';
@@ -184,6 +187,9 @@ final hubConfig = HubConfig(
     hizConfig,
     nertzConfig,
     kempsConfig,
+    tarokConfig,
+    kartYoluConfig,
+    kartKaresiConfig,
   ],
   groups: [batakCesitGroup, solCesitGroup],
 );

@@ -223,6 +223,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kemps
       ref: 0e49d9f52aab1b1ab9a385e6c0ec6c2b2b880d85
+  oyun_tarok:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tarok
+      ref: 79ab2d8854ac74d04838c0bb565a996990a44cab
+  oyun_kart_yolu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kart-yolu
+      ref: 1d12d3ff960fbe7b0206caece9f99b57991daa77
+  oyun_kart_karesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kart-karesi
+      ref: 7b4b10204647b4993e1698b56d22559f98483b83
   oyun_batak_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-batak-cesitleri
@@ -248,7 +260,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: c503995cf434b0bd76ec7bf5dbc0c39a257979a9
+      ref: b1873284cbbc0148597d2526c8f93a0209e10c77
 
 dev_dependencies:
   flutter_test:

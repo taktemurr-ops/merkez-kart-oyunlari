@@ -56,5 +56,8 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Hız | [oyun-hiz](https://github.com/taktemurr-ops/oyun-hiz) |
 | Nertz | [oyun-nertz](https://github.com/taktemurr-ops/oyun-nertz) |
 | Kemps | [oyun-kemps](https://github.com/taktemurr-ops/oyun-kemps) |
+| Tarok | [oyun-tarok](https://github.com/taktemurr-ops/oyun-tarok) |
+| Kart Yolu | [oyun-kart-yolu](https://github.com/taktemurr-ops/oyun-kart-yolu) |
+| Kart Karesi | [oyun-kart-karesi](https://github.com/taktemurr-ops/oyun-kart-karesi) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk

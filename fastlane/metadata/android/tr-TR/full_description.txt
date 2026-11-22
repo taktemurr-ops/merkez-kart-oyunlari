@@ -17,6 +17,8 @@ Kart Oyunları, sevilen sabır oyunlarını ve yapay zekâ rakiplere karşı oyn
 • Euchre, Belot, Klaverjas, Jass, Pinokl, Skat, Koyun Başı, Kontrat Briç, Bezik: dünyanın sevilen el alma oyunları, akıllı rakiplerle.
 • Gin Remi, Kart Remi, Konken, Aşamalı Remi, Kanasta, El ve Ayak, Cribbage, Durak: per aç, el bitir, rakibini geride bırak.
 • Eşini Yakala, Hız, Nertz, Kemps: gerçek zamanlı refleks oyunları, 50.000 bölüm.
+• Tarok: 78 kartlık klasik, biri üçe karşı.
+• Kart Yolu ve Kart Karesi: stüdyonun özgün kart bulmacaları, 100.000'er bölüm.
 • Kart Hafızası: gerçek kart yüzleriyle hafıza oyunu, 100.000 bölüm.
 • Batak Çeşitleri: Eşli, Koz Maça, Büyük İhale ve daha fazlası.
 • Solitaire Çeşitleri: 100 farklı kural, toplam 1.000.000 çözülebilir dağıtım.
