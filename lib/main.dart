@@ -56,7 +56,7 @@ import 'package:oyun_tarok/oyun_tarok.dart';
 import 'package:oyun_toplam_al/oyun_toplam_al.dart';
 import 'package:oyun_tripeaks_solitaire/oyun_tripeaks_solitaire.dart';
 import 'package:oyun_yukon_solitaire/oyun_yukon_solitaire.dart';
-import 'package:studio_core/app/hub.dart';
+import 'approved_hub.dart';
 
 /// Kart Oyunları: aynı ailedeki kart oyunlarını tek uygulamada toplar.
 /// Her oyunun kaydı ve ilerlemesi ayrıdır.
