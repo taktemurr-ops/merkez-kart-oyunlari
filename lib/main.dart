@@ -132,7 +132,7 @@ final hubConfig = HubConfig(
       'Xếp bài và đánh bài với đối thủ trong một ứng dụng',
       'Solitaire at mga laro ng baraha laban sa kalaban sa iisang app',
     ],
-  seedColor: const Color(0xFF2F7D5B),
+  seedColor: const Color(0xFF9C2545),
   icon: Icons.style_rounded,
   games: [
     klondikeConfig,
