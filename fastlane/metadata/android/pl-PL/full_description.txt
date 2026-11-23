@@ -2,7 +2,7 @@ Gry Karciane łączy 55 gier karcianych i 105 wariantów w jednej aplikacji, z w
 
 • Pasjanse: Klondike, Pająk, Wolne Komórki, Piramida, Trzy Szczyty, Golf, Jukon, Skorpion, Czterdziestu Rozbójników, Canfield, Akordeon, Zegar
 • Gry w lewy: Batak, Kierki, Piki, Wist, Dokładna Deklaracja, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Owczy Łeb, Brydż Kontraktowy, Bezik, Tarok francuski
-• Gry stołowe: Pişti, Scopa, Suma i Bierz, Dopasuj Kolor, Bitwa Kart, Prezes, Samotny Król, Łowienie Czwórek, Stos Blefu, Trzydzieści Jeden
+• Rodzinne gry karciane: Pişti, Scopa, Suma i Bierz, Dopasuj Kolor, Bitwa Kart, Prezes, Samotny Król, Łowienie Czwórek, Stos Blefu, Trzydzieści Jeden
 • Remik i więcej: Gin Remik, Remik, Konken, Remik z Kontraktem, Kanasta, Ręka i Stopa, Cribbage, Dureń
 • W czasie rzeczywistym: Łap Parę, Szybkość, Nertz, Kemps
 • Łamigłówki i pamięć: Karciana Ścieżka, Karciany Kwadrat, Karciana Pamięć

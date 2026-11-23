@@ -2,7 +2,7 @@ Kaartspellen brengt 55 kaartspellen en 105 varianten samen in één app, met een
 
 • Patience: Klondike, Spin, Vrije Vakken, Piramide, Drie Toppen, Golf, Yukon, Schorpioen, Veertig Rovers, Canfield, Accordeon, Klok
 • Slagenspellen: Batak, Hartenjagen, Schoppen, Whist, Precies Raak, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Schapenkop, Contractbridge, Bezique, Frans tarok
-• Tafelspellen: Pişti, Scopa, Tel op en Pak, Kleur Erop, Kaartenslag, Voorzitter, De Eenzame Koning, Vissen naar Vier, Bluffstapel, Eenendertig
+• Familiekaartspellen: Pişti, Scopa, Tel op en Pak, Kleur Erop, Kaartenslag, Voorzitter, De Eenzame Koning, Vissen naar Vier, Bluffstapel, Eenendertig
 • Rummy en meer: Gin Rummy, Rummikaarten, Konken, Contractrummy, Canasta, Hand en Voet, Cribbage, Durak
 • Realtime: Snap, Snelheid, Nertz, Kemps
 • Puzzels en geheugen: Kaartenpad, Kaartvierkant, Kaartgeheugen

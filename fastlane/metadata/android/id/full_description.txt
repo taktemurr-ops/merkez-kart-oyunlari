@@ -2,7 +2,7 @@ Permainan Kartu menghadirkan 55 permainan kartu dan 105 varian dalam satu aplika
 
 • Solitaire: Klondike, Laba-laba, Sel Bebas, Piramida, Tiga Puncak, Golf, Yukon, Kalajengking, Empat Puluh Pencuri, Canfield, Akordeon, Jam
 • Permainan trik: Batak, Hati, Sekop, Whist, Tebak Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Domba, Bridge Kontrak, Bezique, Tarok Prancis
-• Permainan meja: Pişti, Scopa, Jumlah dan Ambil, Cocokkan Warna, Perang Kartu, Ketua, Raja Sendirian, Mancing Empat, Tumpukan Gertak, Tiga Puluh Satu
+• Permainan kartu keluarga: Pişti, Scopa, Jumlah dan Ambil, Cocokkan Warna, Perang Kartu, Ketua, Raja Sendirian, Mancing Empat, Tumpukan Gertak, Tiga Puluh Satu
 • Remi dan lainnya: Gin Rummy, Remi, Konken, Remi Bertahap, Kanasta, Tangan dan Kaki, Cribbage, Durak
 • Waktu nyata: Tangkap Pasangan, Kecepatan, Nertz, Kemps
 • Teka-teki dan ingatan: Jejak Kartu, Persegi Kartu, Ingatan Kartu

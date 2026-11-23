@@ -2,7 +2,7 @@ Giochi di Carte riunisce 55 giochi di carte e 105 varianti in un'unica app, con 
 
 • Solitari: Klondike, Ragno, Celle Libere, Piramide, Tre Picchi, Golf, Yukon, Scorpione, Quaranta Ladroni, Canfield, Fisarmonica, Orologio
 • Giochi di prese: Batak, Cuori, Picche, Whist, Previsione Esatta, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinnacolo da Prese, Skat, Testa di Pecora, Bridge a Contratto, Bazzica, Tarocco francese
-• Giochi da tavolo: Pişti, Scopa, Somma e Prendi, Abbina il Seme, Battaglia di Carte, Presidente, Il Re Solo, Pesca dei Poker, Pila del Bluff, Trentuno
+• Giochi di carte in famiglia: Pişti, Scopa, Somma e Prendi, Abbina il Seme, Battaglia di Carte, Presidente, Il Re Solo, Pesca dei Poker, Pila del Bluff, Trentuno
 • Ramino e altro: Gin Rummy, Ramino, Konken, Ramino a Contratti, Canasta, Mano e Piede, Cribbage, Durak
 • In tempo reale: Prendi la Coppia, Velocità, Nertz, Kemps
 • Rompicapi e memoria: Sentiero di Carte, Quadrato di Carte, Memoria delle Carte

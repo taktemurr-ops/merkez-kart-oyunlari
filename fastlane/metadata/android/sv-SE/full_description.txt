@@ -2,7 +2,7 @@ Kortspel samlar 55 kortspel och 105 varianter i en app, med egen kortdesign. Pat
 
 • Patienser: Klondike, Spindel, Fria Celler, Pyramid, Tre Toppar, Golf, Yukon, Skorpion, Fyrtio Rövare, Canfield, Dragspel, Klockan
 • Stickspel: Batak, Hjärter, Spader, Whist, Exakt Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Fårhuvud, Kontraktbridge, Bezique, Fransk tarock
-• Bordsspel: Pişti, Scopa, Summa och Ta, Matcha Färgen, Kortstrid, Ordförande, Den Ensamma Kungen, Fiska Fyrtal, Bluffhögen, Trettioett
+• Familjekortspel: Pişti, Scopa, Summa och Ta, Matcha Färgen, Kortstrid, Ordförande, Den Ensamma Kungen, Fiska Fyrtal, Bluffhögen, Trettioett
 • Rummy och mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hand och Fot, Cribbage, Durak
 • Realtid: Snap, Fart, Nertz, Kemps
 • Pussel och minne: Kortstigen, Kortkvadrat, Kortminne
