@@ -56,7 +56,7 @@ import 'package:oyun_tarok/oyun_tarok.dart';
 import 'package:oyun_toplam_al/oyun_toplam_al.dart';
 import 'package:oyun_tripeaks_solitaire/oyun_tripeaks_solitaire.dart';
 import 'package:oyun_yukon_solitaire/oyun_yukon_solitaire.dart';
-import 'approved_hub.dart';
+import 'package:studio_core/app/hub.dart';
 
 /// Kart Oyunları: aynı ailedeki kart oyunlarını tek uygulamada toplar.
 /// Her oyunun kaydı ve ilerlemesi ayrıdır.
@@ -132,7 +132,7 @@ final hubConfig = HubConfig(
       'Xếp bài và đánh bài với đối thủ trong một ứng dụng',
       'Solitaire at mga laro ng baraha laban sa kalaban sa iisang app',
     ],
-  seedColor: const Color(0xFF9C2545),
+  seedColor: const Color(0xFF2F7D5B),
   icon: Icons.style_rounded,
   games: [
     klondikeConfig,
