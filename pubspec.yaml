@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_klondike_solitaire:
     git:
@@ -230,19 +230,19 @@ dependencies:
   oyun_snap:
     git:
       url: https://github.com/taktemurr-ops/oyun-snap
-      ref: 488ce8541c477e7eea193914c5bfa165a3e9a02c
+      ref: 0130d76fbf3553c8dbebb8d4fd83cf7f4fd6ca09
   oyun_hiz:
     git:
       url: https://github.com/taktemurr-ops/oyun-hiz
-      ref: 243c980e269aac10816581caeaeae051fbfe2b64
+      ref: 697ea086a9fb4157dac4c28e0f9d6f4226d3429c
   oyun_nertz:
     git:
       url: https://github.com/taktemurr-ops/oyun-nertz
-      ref: 89fbd109926b9ea5db3b2a60bb64f6d7875501bb
+      ref: 14dbf8f11fff058b4bc2cd4c28f61695e20b29bf
   oyun_kemps:
     git:
       url: https://github.com/taktemurr-ops/oyun-kemps
-      ref: 098bebbed769d051ff14c81b98203bfe4b941505
+      ref: d3e58185df15ceb5feb08c0d77943bb67d9bf266
   oyun_tarok:
     git:
       url: https://github.com/taktemurr-ops/oyun-tarok
@@ -276,11 +276,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: e1fdc2afa31eb475f7422c23d423c1b02983bccb
+      ref: e5dcbb6e23954ef984d8d29aec9a623f6205b0e1
 
 dev_dependencies:
   flutter_test:
