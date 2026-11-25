@@ -171,6 +171,26 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kontrat-bric
       ref: 0ae94c9a4702e1fb199874a62ab6a4211521acc3
+  oyun_tarneeb:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tarneeb
+      ref: 1e52d0f9650680de3499c3a16686cfb9d517af7a
+  oyun_trix:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-trix
+      ref: d6e0526f4501dfad7e140b9dd714d31c724ac6dd
+  oyun_baloot:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-baloot
+      ref: eb4b1b9ab536bd539c6be91e0c8f49b4823275f5
+  oyun_hokm:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hokm
+      ref: b89b16fa66e494d8c106c86000664b721d75acce
+  oyun_yirmi_dokuz:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yirmi-dokuz
+      ref: 5d7de6cc87671cc0211a34cd8cc130485203eb48
   oyun_bezik:
     git:
       url: https://github.com/taktemurr-ops/oyun-bezik
@@ -260,7 +280,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 4024a18249d1ce65844a628a605619dc49ee60bf
+      ref: e1fdc2afa31eb475f7422c23d423c1b02983bccb
 
 dev_dependencies:
   flutter_test:

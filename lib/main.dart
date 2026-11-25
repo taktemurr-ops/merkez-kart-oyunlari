@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:oyun_batak_cesitleri/oyun_batak_cesitleri.dart';
-import 'package:oyun_solitaire_cesitleri/oyun_solitaire_cesitleri.dart';
 import 'package:oyun_31/oyun_31.dart';
 import 'package:oyun_accordion_solitaire/oyun_accordion_solitaire.dart';
 import 'package:oyun_asamali_remi/oyun_asamali_remi.dart';
 import 'package:oyun_balik_tut/oyun_balik_tut.dart';
+import 'package:oyun_baloot/oyun_baloot.dart';
 import 'package:oyun_baskan/oyun_baskan.dart';
 import 'package:oyun_batak/oyun_batak.dart';
+import 'package:oyun_batak_cesitleri/oyun_batak_cesitleri.dart';
 import 'package:oyun_belot/oyun_belot.dart';
 import 'package:oyun_bezik/oyun_bezik.dart';
 import 'package:oyun_blof/oyun_blof.dart';
@@ -24,6 +24,7 @@ import 'package:oyun_gin_remi/oyun_gin_remi.dart';
 import 'package:oyun_golf_solitaire/oyun_golf_solitaire.dart';
 import 'package:oyun_hearts/oyun_hearts.dart';
 import 'package:oyun_hiz/oyun_hiz.dart';
+import 'package:oyun_hokm/oyun_hokm.dart';
 import 'package:oyun_jass/oyun_jass.dart';
 import 'package:oyun_kanasta/oyun_kanasta.dart';
 import 'package:oyun_kart_hafiza/oyun_kart_hafiza.dart';
@@ -49,12 +50,16 @@ import 'package:oyun_scopa/oyun_scopa.dart';
 import 'package:oyun_scorpion_solitaire/oyun_scorpion_solitaire.dart';
 import 'package:oyun_skat/oyun_skat.dart';
 import 'package:oyun_snap/oyun_snap.dart';
+import 'package:oyun_solitaire_cesitleri/oyun_solitaire_cesitleri.dart';
 import 'package:oyun_spades/oyun_spades.dart';
 import 'package:oyun_spider_solitaire/oyun_spider_solitaire.dart';
 import 'package:oyun_sueca/oyun_sueca.dart';
+import 'package:oyun_tarneeb/oyun_tarneeb.dart';
 import 'package:oyun_tarok/oyun_tarok.dart';
 import 'package:oyun_toplam_al/oyun_toplam_al.dart';
 import 'package:oyun_tripeaks_solitaire/oyun_tripeaks_solitaire.dart';
+import 'package:oyun_trix/oyun_trix.dart';
+import 'package:oyun_yirmi_dokuz/oyun_yirmi_dokuz.dart';
 import 'package:oyun_yukon_solitaire/oyun_yukon_solitaire.dart';
 import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
@@ -191,6 +196,11 @@ final hubConfig = HubConfig(
     nertzConfig,
     kempsConfig,
     tarokConfig,
+    tarneebConfig,
+    trixConfig,
+    balootConfig,
+    hokmConfig,
+    yirmidokuzConfig,
     kartYoluConfig,
     kartKaresiConfig,
   ],
@@ -250,6 +260,11 @@ final hubConfig = HubConfig(
     'oyun-spades': GameCover('cards', label: 'J,Q,K', v: 2),
     'oyun-spider-solitaire': GameCover('solitaire', v: 1),
     'oyun-sueca': GameCover('cards', label: '7,A,J'),
+    'oyun-tarneeb': GameCover('cards', label: 'A,K,7', v: 2),
+    'oyun-trix': GameCover('cards', label: 'J,Q,K', v: 2),
+    'oyun-baloot': GameCover('cards', label: 'J,9,K'),
+    'oyun-hokm': GameCover('cards', label: 'K,A,7', v: 3),
+    'oyun-yirmi-dokuz': GameCover('cards', label: '9,J,10', v: 1),
     'oyun-tarok': GameCover('cards', label: '21,1,K'),
     'oyun-toplam-al': GameCover('cards', label: '5,5,10', v: 3),
     'oyun-tripeaks-solitaire': GameCover('pyramid', v: 1),
@@ -330,7 +345,7 @@ final hubConfig = HubConfig(
           'Bài ăn nước',
           'Trick-taking',
         ],
-        ids: ['oyun-batak', 'oyun-batak-cesitleri', 'oyun-hearts', 'oyun-spades', 'oyun-bric-benzeri-whist', 'oyun-oh-hell', 'oyun-briscola', 'oyun-sueca', 'oyun-king', 'oyun-euchre', 'oyun-belot', 'oyun-klaverjas', 'oyun-jass', 'oyun-pinokl', 'oyun-skat', 'oyun-koyun-basi', 'oyun-kontrat-bric', 'oyun-bezik', 'oyun-tarok']),
+        ids: ['oyun-batak', 'oyun-batak-cesitleri', 'oyun-hearts', 'oyun-spades', 'oyun-bric-benzeri-whist', 'oyun-oh-hell', 'oyun-briscola', 'oyun-sueca', 'oyun-king', 'oyun-euchre', 'oyun-belot', 'oyun-klaverjas', 'oyun-jass', 'oyun-pinokl', 'oyun-skat', 'oyun-koyun-basi', 'oyun-kontrat-bric', 'oyun-bezik', 'oyun-tarok', 'oyun-tarneeb', 'oyun-trix', 'oyun-baloot', 'oyun-hokm', 'oyun-yirmi-dokuz']),
     HubSection(
         title: [
           'Aile kart oyunları',

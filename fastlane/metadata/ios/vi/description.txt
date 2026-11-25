@@ -1,8 +1,8 @@
-Trò Chơi Bài gom 55 trò chơi bài và 105 biến thể vào một ứng dụng, với thiết kế lá bài riêng. Xếp bài, các trò kinh điển đấu đối thủ thông minh và câu đố lá bài độc đáo; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng.
+Trò Chơi Bài gom 60 trò chơi bài và 105 biến thể vào một ứng dụng, với thiết kế lá bài riêng. Xếp bài, các trò kinh điển đấu đối thủ thông minh và câu đố lá bài độc đáo; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng.
 
 • Xếp bài: Klondike, Nhện, Ô Trống, Kim Tự Tháp, Ba Đỉnh, Golf, Yukon, Bọ Cạp, Bốn Mươi Tên Cướp, Canfield, Đàn Xếp, Đồng Hồ
-• Bài ăn nước: Batak, Tiến Cơ, Bích, Whist, Đoán Chuẩn, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Đầu Cừu, Bridge Hợp Đồng, Bezique, Tarot Pháp
-• Trò chơi bài gia đình: Pişti, Scopa, Cộng Và Ăn, Ghép Chất, Đại Chiến Bài, Chủ Tịch, Vua Lẻ Loi, Câu Tứ Quý, Chồng Bài Bịp, Ba Mươi Mốt
+• Bài ăn nước: Batak, Tiến Cơ, Bích, Whist, Đoán Chuẩn, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Đầu Cừu, Bridge Hợp Đồng, Bezique, Tarot Pháp, Tarneeb, Trix, Baloot, Hokm, Hai mươi chín
+• Trò trên bàn: Pişti, Scopa, Cộng Và Ăn, Ghép Chất, Đại Chiến Bài, Chủ Tịch, Vua Lẻ Loi, Câu Tứ Quý, Chồng Bài Bịp, Ba Mươi Mốt
 • Rummy và hơn nữa: Gin Rummy, Rummy, Konken, Rummy Theo Cấp, Canasta, Tay và Chân, Cribbage, Durak
 • Thời gian thực: Chộp Đôi, Tốc Độ, Nertz, Kemps
 • Câu đố và trí nhớ: Lối Đi Lá Bài, Ô Vuông Lá Bài, Trí Nhớ Lá Bài
@@ -13,7 +13,7 @@ Trò Chơi Bài gom 55 trò chơi bài và 105 biến thể vào một ứng d�
 • Gợi ý, hoàn tác và tự hoàn tất.
 • Màn hằng ngày, hằng tuần, nhiệm vụ và thành tích.
 • Lá bài bốn màu cho người mù màu, 33 ngôn ngữ.
-• Đấu với máy khi ngoại tuyến, hoặc chơi ở bàn trực tuyến cùng bạn bè và trò chuyện (cần internet).
+• Chơi ngoại tuyến trên điện thoại, máy tính bảng và web.
 • Không cờ bạc, cá cược hay nội dung 18+.
 
 Các giao dịch mua (như tắt quảng cáo) áp dụng cho mọi trò trong ứng dụng.

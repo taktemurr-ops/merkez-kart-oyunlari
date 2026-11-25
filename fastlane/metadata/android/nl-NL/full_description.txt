@@ -1,8 +1,8 @@
-Kaartspellen brengt 55 kaartspellen en 105 varianten samen in één app, met een eigen kaartontwerp. Patience, klassiekers tegen slimme tegenstanders en originele kaartpuzzels; elk spel heeft eigen voortgang, missies en prestaties.
+Kaartspellen brengt 60 kaartspellen en 105 varianten samen in één app, met een eigen kaartontwerp. Patience, klassiekers tegen slimme tegenstanders en originele kaartpuzzels; elk spel heeft eigen voortgang, missies en prestaties.
 
 • Patience: Klondike, Spin, Vrije Vakken, Piramide, Drie Toppen, Golf, Yukon, Schorpioen, Veertig Rovers, Canfield, Accordeon, Klok
-• Slagenspellen: Batak, Hartenjagen, Schoppen, Whist, Precies Raak, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Schapenkop, Contractbridge, Bezique, Frans tarok
-• Familiekaartspellen: Pişti, Scopa, Tel op en Pak, Kleur Erop, Kaartenslag, Voorzitter, De Eenzame Koning, Vissen naar Vier, Bluffstapel, Eenendertig
+• Slagenspellen: Batak, Hartenjagen, Schoppen, Whist, Precies Raak, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Schapenkop, Contractbridge, Bezique, Frans tarok, Tarneeb, Trix, Baloot, Hokm, Negenentwintig
+• Tafelspellen: Pişti, Scopa, Tel op en Pak, Kleur Erop, Kaartenslag, Voorzitter, De Eenzame Koning, Vissen naar Vier, Bluffstapel, Eenendertig
 • Rummy en meer: Gin Rummy, Rummikaarten, Konken, Contractrummy, Canasta, Hand en Voet, Cribbage, Durak
 • Realtime: Snap, Snelheid, Nertz, Kemps
 • Puzzels en geheugen: Kaartenpad, Kaartvierkant, Kaartgeheugen
@@ -13,7 +13,7 @@ Hoogtepunten
 • Hints, ongedaan maken en automatisch afronden.
 • Dagelijkse en wekelijkse levels, missies en prestaties.
 • Vierkleurige kaarten bij kleurenblindheid, 33 talen.
-• Speel offline tegen de computer of aan online tafels met vrienden en chat (internet nodig).
+• Speelt offline op telefoon, tablet en web.
 • Geen gokken, wedden of 18+-inhoud.
 
 Aankopen (zoals advertentievrij) gelden voor alle spellen in de app.

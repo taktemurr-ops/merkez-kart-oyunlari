@@ -1,8 +1,8 @@
-Karetní hry spojuje 55 karetních her a 105 variant v jedné aplikaci s vlastním designem karet. Solitéry, klasiky proti chytrým soupeřům a originální karetní hlavolamy; každá hra má vlastní postup, úkoly a úspěchy.
+Karetní hry spojuje 60 karetních her a 105 variant v jedné aplikaci s vlastním designem karet. Solitéry, klasiky proti chytrým soupeřům a originální karetní hlavolamy; každá hra má vlastní postup, úkoly a úspěchy.
 
 • Solitéry: Klondike, Pavouk, Volné buňky, Pyramida, Tři vrcholy, Golf, Yukon, Štír, Čtyřicet loupežníků, Canfield, Akordeon, Hodiny
-• Štychové hry: Batak, Srdce, Piky, Whist, Přesný odhad, Briscola, Sueca, King, Euchre, Belota, Klaverjas, Jass, Pinochle, Skat, Ovčí Hlava, Kontraktní Bridž, Bezik, Francouzský tarok
-• Rodinné karetní hry: Pişti, Scopa, Sečti a Ber, Barva k barvě, Bitva karet, Předseda, Osamělý král, Lov čtveřic, Hromádka Blafů, Jednatřicet
+• Štychové hry: Batak, Srdce, Piky, Whist, Přesný odhad, Briscola, Sueca, King, Euchre, Belota, Klaverjas, Jass, Pinochle, Skat, Ovčí Hlava, Kontraktní Bridž, Bezik, Francouzský tarok, Tarneeb, Trix, Baloot, Hokm, Dvacet devět
+• Stolní hry: Pişti, Scopa, Sečti a Ber, Barva k barvě, Bitva karet, Předseda, Osamělý král, Lov čtveřic, Hromádka Blafů, Jednatřicet
 • Žolíky a další: Gin Rummy, Žolíkové Rummy, Konken, Rummy se Zadáním, Kanasta, Ruka a Noha, Cribbage, Durak
 • V reálném čase: Chyť Pár, Rychlost, Nertz, Kemps
 • Hlavolamy a paměť: Karetní Stezka, Karetní Čtverec, Karetní Paměť
@@ -13,7 +13,7 @@ Hlavní přednosti
 • Nápovědy, zpět a automatické dokončení.
 • Denní a týdenní úrovně, úkoly a úspěchy.
 • Čtyřbarevné karty pro barvoslepé, 33 jazyků.
-• Hraj proti počítači offline, nebo u online stolů s přáteli a chatem (vyžaduje internet).
+• Hraje se offline na telefonu, tabletu i na webu.
 • Žádný hazard, sázky ani obsah 18+.
 
 Nákupy (např. bez reklam) platí pro všechny hry v aplikaci.

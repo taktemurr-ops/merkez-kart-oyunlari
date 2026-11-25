@@ -1,8 +1,8 @@
-Permainan Kartu menghadirkan 55 permainan kartu dan 105 varian dalam satu aplikasi dengan desain kartu kami sendiri. Solitaire, permainan klasik melawan lawan cerdas, dan teka-teki kartu orisinal; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
+Permainan Kartu menghadirkan 60 permainan kartu dan 105 varian dalam satu aplikasi dengan desain kartu kami sendiri. Solitaire, permainan klasik melawan lawan cerdas, dan teka-teki kartu orisinal; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
 
 • Solitaire: Klondike, Laba-laba, Sel Bebas, Piramida, Tiga Puncak, Golf, Yukon, Kalajengking, Empat Puluh Pencuri, Canfield, Akordeon, Jam
-• Permainan trik: Batak, Hati, Sekop, Whist, Tebak Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Domba, Bridge Kontrak, Bezique, Tarok Prancis
-• Permainan kartu keluarga: Pişti, Scopa, Jumlah dan Ambil, Cocokkan Warna, Perang Kartu, Ketua, Raja Sendirian, Mancing Empat, Tumpukan Gertak, Tiga Puluh Satu
+• Permainan trik: Batak, Hati, Sekop, Whist, Tebak Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Domba, Bridge Kontrak, Bezique, Tarok Prancis, Tarneeb, Trix, Baloot, Hokm, Dua Puluh Sembilan
+• Permainan meja: Pişti, Scopa, Jumlah dan Ambil, Cocokkan Warna, Perang Kartu, Ketua, Raja Sendirian, Mancing Empat, Tumpukan Gertak, Tiga Puluh Satu
 • Remi dan lainnya: Gin Rummy, Remi, Konken, Remi Bertahap, Kanasta, Tangan dan Kaki, Cribbage, Durak
 • Waktu nyata: Tangkap Pasangan, Kecepatan, Nertz, Kemps
 • Teka-teki dan ingatan: Jejak Kartu, Persegi Kartu, Ingatan Kartu
@@ -13,7 +13,7 @@ Sorotan
 • Petunjuk, urungkan, dan selesai otomatis.
 • Level harian dan mingguan, misi, dan pencapaian.
 • Kartu empat warna untuk buta warna, 33 bahasa.
-• Lawan komputer secara offline, atau main di meja online bersama teman dan mengobrol (perlu internet).
+• Bisa dimainkan offline di ponsel, tablet, dan web.
 • Tanpa judi, taruhan, atau konten 18+.
 
 Pembelian (seperti hapus iklan) berlaku untuk semua permainan di aplikasi.

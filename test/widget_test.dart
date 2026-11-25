@@ -59,6 +59,11 @@ void main() {
       'oyun-nertz',
       'oyun-kemps',
       'oyun-tarok',
+      'oyun-tarneeb',
+      'oyun-trix',
+      'oyun-baloot',
+      'oyun-hokm',
+      'oyun-yirmi-dokuz',
       'oyun-kart-yolu',
       'oyun-kart-karesi',
     ]);

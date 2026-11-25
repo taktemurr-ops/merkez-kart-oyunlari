@@ -1,8 +1,8 @@
-Card Games brings 55 card games and 105 variants together in one app, with our own card design. Patience games, classics against smart rivals and original card puzzles; every game keeps its own progress, missions and achievements.
+Card Games brings 60 card games and 105 variants together in one app, with our own card design. Patience games, classics against smart rivals and original card puzzles; every game keeps its own progress, missions and achievements.
 
 • Solitaire: Klondike, Spider, Free Cells, Pyramid, Three Peaks, Golf, Yukon, Scorpion, Forty Thieves, Canfield, Accordion, Clock
-• Trick-taking: Batak, Hearts, Spades, Whist, Exact Call, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Sheepshead, Contract Bridge, Bezique, French Tarot
-• Family card games: Pishti, Scopa, Sum Catch, Suit Match, Card Battle, Chairman, Odd King Out, Fish for Fours, Bluff Pile, Thirty-One
+• Trick-taking: Batak, Hearts, Spades, Whist, Exact Call, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Sheepshead, Contract Bridge, Bezique, French Tarot, Tarneeb, Trix, Baloot, Hokm, Twenty-Nine
+• Table games: Pishti, Scopa, Sum Catch, Suit Match, Card Battle, Chairman, Odd King Out, Fish for Fours, Bluff Pile, Thirty-One
 • Rummy and more: Gin Rummy, Rummy, Konken, Contract Rummy, Canasta, Hand and Foot, Cribbage, Durak
 • Real-time: Snap, Speed, Nertz, Kemps
 • Puzzles and memory: Card Trail, Card Square, Card Recall
@@ -13,7 +13,7 @@ Highlights
 • Hints, undo and auto-finish.
 • Daily and weekly levels, missions and achievements.
 • Four-colour cards for colour blindness, 33 languages.
-• Play the computer offline, or join online tables with friends and chat (internet required).
+• Plays offline on phones, tablets and the web.
 • No gambling, betting or 18+ content.
 
 Purchases (such as removing ads) apply to every game in the app.
