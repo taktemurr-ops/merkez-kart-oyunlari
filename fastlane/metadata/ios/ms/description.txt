@@ -1,0 +1,19 @@
+Permainan Kad menghimpunkan 55 permainan kad dan 105 varian dalam satu aplikasi dengan reka bentuk kad kami sendiri. Solitaire, permainan klasik menentang lawan bijak dan teka-teki kad asli; setiap permainan ada kemajuan, misi dan pencapaiannya sendiri.
+
+• Solitaire: Klondike, Labah-labah, Sel Bebas, Piramid, Tiga Puncak, Golf, Yukon, Kala Jengking, Empat Puluh Pencuri, Canfield, Akordion, Jam
+• Permainan trik: Batak, Hati, Daun, Whist, Tekaan Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Biri-biri, Bridge Kontrak, Bezique, Tarok Perancis
+• Permainan kad keluarga: Pişti, Scopa, Jumlah dan Ambil, Padan Sut, Perang Kad, Pengerusi, Raja Bersendirian, Pancing Empat, Timbunan Gertak, Tiga Puluh Satu
+• Rumi dan lagi: Gin Rummy, Remi, Konken, Remi Berperingkat, Kanasta, Tangan dan Kaki, Cribbage, Durak
+• Masa nyata: Tangkap Pasangan, Kelajuan, Nertz, Kemps
+• Teka-teki dan ingatan: Denai Kad, Segi Empat Kad, Ingatan Kad
+• Pek varian: Ragam Batak (5), Aneka Solitaire (100)
+
+Sorotan
+• 100,000 tahap setiap permainan; setiap agihan disemak oleh penyelesai atau AI kuat, jadi setiap tahap boleh dimenangi.
+• Petunjuk, buat asal dan tamat automatik.
+• Tahap harian dan mingguan, misi dan pencapaian.
+• Kad empat warna untuk buta warna, 33 bahasa.
+• Lawan komputer tanpa internet, atau main di meja dalam talian bersama rakan dan bersembang (perlu internet).
+• Tiada judi, pertaruhan atau kandungan 18+.
+
+Pembelian (seperti buang iklan) terpakai untuk semua permainan dalam aplikasi.

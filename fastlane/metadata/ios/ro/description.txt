@@ -1,0 +1,19 @@
+Jocuri de Cărți adună 55 jocuri de cărți și 105 variante într-o singură aplicație, cu un design propriu al cărților. Pasiențe, clasice contra adversari isteți și puzzle-uri originale cu cărți; fiecare joc își păstrează progresul, misiunile și realizările.
+
+• Pasiențe: Klondike, Păianjen, Celule Libere, Piramida, Trei Vârfuri, Golf, Yukon, Scorpion, Patruzeci de Hoți, Canfield, Acordeon, Ceas
+• Jocuri cu levate: Batak, Inimi, Pică, Whist, Ghicește Exact, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Cap de Oaie, Bridge pe Contract, Bezique, Tarot francez
+• Jocuri de cărți în familie: Pişti, Scopa, Adună și Ia, Potrivește Culoarea, Bătălia Cărților, Președinte, Regele Singur, Pescuit de Careuri, Grămada de Cacealmale, Treizeci și Unu
+• Remi și altele: Gin Remi, Remi, Konken, Remi pe Etape, Canasta, Mână și Picior, Cribbage, Durak
+• În timp real: Prinde Perechea, Viteză, Nertz, Kemps
+• Puzzle și memorie: Cărarea Cărților, Pătratul Cărților, Memoria Cărților
+• Pachete de variante: Variante de Batak (5), Varietate de Pasențe (100)
+
+Puncte forte
+• 100.000 de niveluri pe joc; fiecare împărțire e verificată de un rezolvitor sau o IA puternică, orice nivel poate fi câștigat.
+• Indicii, anulare și finalizare automată.
+• Niveluri zilnice și săptămânale, misiuni și realizări.
+• Cărți în patru culori pentru daltonism, 33 de limbi.
+• Joacă offline contra calculatorului sau la mese online cu prietenii și chat (necesită internet).
+• Fără jocuri de noroc, pariuri sau conținut 18+.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.

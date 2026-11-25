@@ -1,0 +1,19 @@
+Kortspel samlar 55 kortspel och 105 varianter i en app, med egen kortdesign. Patienser, klassiker mot smarta motståndare och egna kortpussel; varje spel har egna framsteg, uppdrag och prestationer.
+
+• Patienser: Klondike, Spindel, Fria Celler, Pyramid, Tre Toppar, Golf, Yukon, Skorpion, Fyrtio Rövare, Canfield, Dragspel, Klockan
+• Stickspel: Batak, Hjärter, Spader, Whist, Exakt Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Fårhuvud, Kontraktbridge, Bezique, Fransk tarock
+• Familjekortspel: Pişti, Scopa, Summa och Ta, Matcha Färgen, Kortstrid, Ordförande, Den Ensamma Kungen, Fiska Fyrtal, Bluffhögen, Trettioett
+• Rummy och mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hand och Fot, Cribbage, Durak
+• Realtid: Snap, Fart, Nertz, Kemps
+• Pussel och minne: Kortstigen, Kortkvadrat, Kortminne
+• Variantpaket: Batakvarianter (5), Patiensvariation (100)
+
+Höjdpunkter
+• 100 000 nivåer per spel; varje giv kontrolleras av en lösare eller stark AI, så varje nivå går att vinna.
+• Ledtrådar, ångra och automatisk avslutning.
+• Dagliga och veckovisa nivåer, uppdrag och prestationer.
+• Fyrfärgade kort för färgblindhet, 33 språk.
+• Spela mot datorn offline eller vid onlinebord med vänner och chatt (kräver internet).
+• Inget hasardspel, vadslagning eller 18+-innehåll.
+
+Köp (som att ta bort reklam) gäller alla spel i appen.
