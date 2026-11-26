@@ -1,9 +1,9 @@
-Permainan Kartu menghadirkan 60 permainan kartu dan 105 varian dalam satu aplikasi dengan desain kartu kami sendiri. Solitaire, permainan klasik melawan lawan cerdas, dan teka-teki kartu orisinal; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
+Permainan Kartu menghadirkan 63 permainan kartu dan 105 varian dalam satu aplikasi dengan desain kartu kami sendiri. Solitaire, permainan klasik melawan lawan cerdas, dan teka-teki kartu orisinal; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
 
 • Solitaire: Klondike, Laba-laba, Sel Bebas, Piramida, Tiga Puncak, Golf, Yukon, Kalajengking, Empat Puluh Pencuri, Canfield, Akordeon, Jam
-• Permainan trik: Batak, Hati, Sekop, Whist, Tebak Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Domba, Bridge Kontrak, Bezique, Tarok Prancis, Tarneeb, Trix, Baloot, Hokm, Dua Puluh Sembilan
+• Permainan trik: Batak, Hati, Sekop, Whist, Tebak Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Domba, Bridge Kontrak, Bezique, Tarok Prancis, Tarneeb, Trix, Baloot, Hokm, Dua Puluh Sembilan, Doppelkopf
 • Permainan meja: Pişti, Scopa, Jumlah dan Ambil, Cocokkan Warna, Perang Kartu, Ketua, Raja Sendirian, Mancing Empat, Tumpukan Gertak, Tiga Puluh Satu
-• Remi dan lainnya: Gin Rummy, Remi, Konken, Remi Bertahap, Kanasta, Tangan dan Kaki, Cribbage, Durak
+• Remi dan lainnya: Gin Rummy, Remi, Konken, Remi Bertahap, Kanasta, Tangan dan Kaki, Cribbage, Durak, Chinchón, Burako
 • Waktu nyata: Tangkap Pasangan, Kecepatan, Nertz, Kemps
 • Teka-teki dan ingatan: Jejak Kartu, Persegi Kartu, Ingatan Kartu
 • Paket varian: Ragam Batak (5), Aneka Solitaire (100)

@@ -1,9 +1,9 @@
-Trò Chơi Bài gom 60 trò chơi bài và 105 biến thể vào một ứng dụng, với thiết kế lá bài riêng. Xếp bài, các trò kinh điển đấu đối thủ thông minh và câu đố lá bài độc đáo; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng.
+Trò Chơi Bài gom 63 trò chơi bài và 105 biến thể vào một ứng dụng, với thiết kế lá bài riêng. Xếp bài, các trò kinh điển đấu đối thủ thông minh và câu đố lá bài độc đáo; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng.
 
 • Xếp bài: Klondike, Nhện, Ô Trống, Kim Tự Tháp, Ba Đỉnh, Golf, Yukon, Bọ Cạp, Bốn Mươi Tên Cướp, Canfield, Đàn Xếp, Đồng Hồ
-• Bài ăn nước: Batak, Tiến Cơ, Bích, Whist, Đoán Chuẩn, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Đầu Cừu, Bridge Hợp Đồng, Bezique, Tarot Pháp, Tarneeb, Trix, Baloot, Hokm, Hai mươi chín
+• Bài ăn nước: Batak, Tiến Cơ, Bích, Whist, Đoán Chuẩn, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Đầu Cừu, Bridge Hợp Đồng, Bezique, Tarot Pháp, Tarneeb, Trix, Baloot, Hokm, Hai mươi chín, Doppelkopf
 • Trò trên bàn: Pişti, Scopa, Cộng Và Ăn, Ghép Chất, Đại Chiến Bài, Chủ Tịch, Vua Lẻ Loi, Câu Tứ Quý, Chồng Bài Bịp, Ba Mươi Mốt
-• Rummy và hơn nữa: Gin Rummy, Rummy, Konken, Rummy Theo Cấp, Canasta, Tay và Chân, Cribbage, Durak
+• Rummy và hơn nữa: Gin Rummy, Rummy, Konken, Rummy Theo Cấp, Canasta, Tay và Chân, Cribbage, Durak, Chinchón, Burako
 • Thời gian thực: Chộp Đôi, Tốc Độ, Nertz, Kemps
 • Câu đố và trí nhớ: Lối Đi Lá Bài, Ô Vuông Lá Bài, Trí Nhớ Lá Bài
 • Gói biến thể: Các Kiểu Batak (5), Solitaire Muôn Kiểu (100)

@@ -1,9 +1,9 @@
-Permainan Kad menghimpunkan 60 permainan kad dan 105 varian dalam satu aplikasi dengan reka bentuk kad kami sendiri. Solitaire, permainan klasik menentang lawan bijak dan teka-teki kad asli; setiap permainan ada kemajuan, misi dan pencapaiannya sendiri.
+Permainan Kad menghimpunkan 63 permainan kad dan 105 varian dalam satu aplikasi dengan reka bentuk kad kami sendiri. Solitaire, permainan klasik menentang lawan bijak dan teka-teki kad asli; setiap permainan ada kemajuan, misi dan pencapaiannya sendiri.
 
 • Solitaire: Klondike, Labah-labah, Sel Bebas, Piramid, Tiga Puncak, Golf, Yukon, Kala Jengking, Empat Puluh Pencuri, Canfield, Akordion, Jam
-• Permainan trik: Batak, Hati, Daun, Whist, Tekaan Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Biri-biri, Bridge Kontrak, Bezique, Tarok Perancis, Tarneeb, Trix, Baloot, Hokm, Dua Puluh Sembilan
+• Permainan trik: Batak, Hati, Daun, Whist, Tekaan Tepat, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Kepala Biri-biri, Bridge Kontrak, Bezique, Tarok Perancis, Tarneeb, Trix, Baloot, Hokm, Dua Puluh Sembilan, Doppelkopf
 • Permainan meja: Pişti, Scopa, Jumlah dan Ambil, Padan Sut, Perang Kad, Pengerusi, Raja Bersendirian, Pancing Empat, Timbunan Gertak, Tiga Puluh Satu
-• Rumi dan lagi: Gin Rummy, Remi, Konken, Remi Berperingkat, Kanasta, Tangan dan Kaki, Cribbage, Durak
+• Rumi dan lagi: Gin Rummy, Remi, Konken, Remi Berperingkat, Kanasta, Tangan dan Kaki, Cribbage, Durak, Chinchón, Burako
 • Masa nyata: Tangkap Pasangan, Kelajuan, Nertz, Kemps
 • Teka-teki dan ingatan: Denai Kad, Segi Empat Kad, Ingatan Kad
 • Pek varian: Ragam Batak (5), Aneka Solitaire (100)

@@ -1,9 +1,9 @@
-Jeux de Cartes réunit 60 jeux de cartes et 105 variantes dans une seule appli, avec notre propre design de cartes. Réussites, classiques contre des adversaires malins et casse-têtes de cartes originaux ; chaque jeu garde sa progression, ses missions et ses succès.
+Jeux de Cartes réunit 63 jeux de cartes et 105 variantes dans une seule appli, avec notre propre design de cartes. Réussites, classiques contre des adversaires malins et casse-têtes de cartes originaux ; chaque jeu garde sa progression, ses missions et ses succès.
 
 • Réussites: Klondike, Araignée, Cases Libres, Pyramide, Trois Sommets, Golf, Yukon, Scorpion, Quarante Voleurs, Canfield, Accordéon, Horloge
-• Jeux de levées: Batak, Dame de Pique, Pique, Whist, Annonce Exacte, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Tête de Mouton, Bridge Contrat, Bésigue, Tarot, Tarneeb, Trix, Baloot, Hokm, Vingt-neuf
+• Jeux de levées: Batak, Dame de Pique, Pique, Whist, Annonce Exacte, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Tête de Mouton, Bridge Contrat, Bésigue, Tarot, Tarneeb, Trix, Baloot, Hokm, Vingt-neuf, Doppelkopf
 • Jeux de table: Pişti, Scopa, Somme Gagnante, Couleur Assortie, Bataille de Cartes, Président, Le Roi Seul, Pêche aux Carrés, Pile de Bluff, Trente et Un
-• Rami et plus: Gin-Rami, Rami, Konken, Rami à Contrats, Canasta, Main et Pied, Cribbage, Durak
+• Rami et plus: Gin-Rami, Rami, Konken, Rami à Contrats, Canasta, Main et Pied, Cribbage, Durak, Chinchón, Burako
 • En temps réel: Bataille Éclair, Vitesse, Nertz, Kemps
 • Casse-têtes et mémoire: Chemin de Cartes, Carré de Cartes, Mémoire des Cartes
 • Packs de variantes: Variantes de Batak (5), Variété de Réussites (100)

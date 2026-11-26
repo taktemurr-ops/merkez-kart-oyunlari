@@ -1,9 +1,9 @@
-Kart Oyunları, 60 kart oyununu ve 105 çeşidi stüdyonun kendine özgü kart tasarımıyla tek uygulamada toplar. Sabır oyunları, akıllı rakiplere karşı klasikler ve özgün kart bulmacaları; her oyunun kendi kayıtları, görevleri ve başarımları vardır.
+Kart Oyunları, 63 kart oyununu ve 105 çeşidi stüdyonun kendine özgü kart tasarımıyla tek uygulamada toplar. Sabır oyunları, akıllı rakiplere karşı klasikler ve özgün kart bulmacaları; her oyunun kendi kayıtları, görevleri ve başarımları vardır.
 
 • Solitaire: Klondike, Örümcek, Serbest Hücre, Piramit, Üç Tepe, Golf, Yukon, Akrep, Kırk Haramiler, Canfield, Akordeon, Saat
-• El alma: Batak, Kupa Kaçırma, Maça Koz, Whist, Tahmin, Briscola, Sueca, King, Euchre, Belot, Klaverjas, Jass, Pinokl, Skat, Koyun Başı, Kontrat Briç, Bezik, Tarok, Tarneeb, Triks, Baloot, Hokm, Yirmi Dokuz
+• El alma: Batak, Kupa Kaçırma, Maça Koz, Whist, Tahmin, Briscola, Sueca, King, Euchre, Belot, Klaverjas, Jass, Pinokl, Skat, Koyun Başı, Kontrat Briç, Bezik, Tarok, Tarneeb, Triks, Baloot, Hokm, Yirmi Dokuz, Doppelkopf
 • Masa oyunları: Pişti, Scopa, Toplam Al, Renk Eşle, Kart Savaşı, Başkan, Papaz Kaçtı, Balık Tut, Blöf, 31
-• Remi ve dahası: Gin Remi, Kart Remi, Konken, Aşamalı Remi, Kanasta, El ve Ayak, Cribbage, Durak
+• Remi ve dahası: Gin Remi, Kart Remi, Konken, Aşamalı Remi, Kanasta, El ve Ayak, Cribbage, Durak, Çinçon, Burako
 • Gerçek zamanlı: Eşini Yakala, Hız, Nertz, Kemps
 • Bulmaca ve hafıza: Kart Yolu, Kart Karesi, Kart Hafızası
 • Çeşit paketleri: Batak Çeşitleri (5), Solitaire Çeşitleri (100)

@@ -66,6 +66,9 @@ void main() {
       'oyun-yirmi-dokuz',
       'oyun-kart-yolu',
       'oyun-kart-karesi',
+      'oyun-cincon',
+      'oyun-burako',
+      'oyun-doppelkopf',
     ]);
     expect(all.length, ids.length + 105);
     expect(all.toSet().length, all.length);

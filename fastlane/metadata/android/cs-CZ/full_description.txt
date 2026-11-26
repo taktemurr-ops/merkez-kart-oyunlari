@@ -1,9 +1,9 @@
-Karetní hry spojuje 60 karetních her a 105 variant v jedné aplikaci s vlastním designem karet. Solitéry, klasiky proti chytrým soupeřům a originální karetní hlavolamy; každá hra má vlastní postup, úkoly a úspěchy.
+Karetní hry spojuje 63 karetních her a 105 variant v jedné aplikaci s vlastním designem karet. Solitéry, klasiky proti chytrým soupeřům a originální karetní hlavolamy; každá hra má vlastní postup, úkoly a úspěchy.
 
 • Solitéry: Klondike, Pavouk, Volné buňky, Pyramida, Tři vrcholy, Golf, Yukon, Štír, Čtyřicet loupežníků, Canfield, Akordeon, Hodiny
-• Štychové hry: Batak, Srdce, Piky, Whist, Přesný odhad, Briscola, Sueca, King, Euchre, Belota, Klaverjas, Jass, Pinochle, Skat, Ovčí Hlava, Kontraktní Bridž, Bezik, Francouzský tarok, Tarneeb, Trix, Baloot, Hokm, Dvacet devět
+• Štychové hry: Batak, Srdce, Piky, Whist, Přesný odhad, Briscola, Sueca, King, Euchre, Belota, Klaverjas, Jass, Pinochle, Skat, Ovčí Hlava, Kontraktní Bridž, Bezik, Francouzský tarok, Tarneeb, Trix, Baloot, Hokm, Dvacet devět, Doppelkopf
 • Stolní hry: Pişti, Scopa, Sečti a Ber, Barva k barvě, Bitva karet, Předseda, Osamělý král, Lov čtveřic, Hromádka Blafů, Jednatřicet
-• Žolíky a další: Gin Rummy, Žolíkové Rummy, Konken, Rummy se Zadáním, Kanasta, Ruka a Noha, Cribbage, Durak
+• Žolíky a další: Gin Rummy, Žolíkové Rummy, Konken, Rummy se Zadáním, Kanasta, Ruka a Noha, Cribbage, Durak, Chinchón, Burako
 • V reálném čase: Chyť Pár, Rychlost, Nertz, Kemps
 • Hlavolamy a paměť: Karetní Stezka, Karetní Čtverec, Karetní Paměť
 • Balíčky variant: Varianty Bataku (5), Mix Pasiánsů (100)

@@ -1,9 +1,9 @@
-Korttipelit kokoaa 60 korttipeliä ja 105 muunnelmaa yhteen sovellukseen omalla korttisuunnittelullamme. Pasianssit, klassikot fiksuja vastustajia vastaan ja omaperäiset korttipulmat; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Korttipelit kokoaa 63 korttipeliä ja 105 muunnelmaa yhteen sovellukseen omalla korttisuunnittelullamme. Pasianssit, klassikot fiksuja vastustajia vastaan ja omaperäiset korttipulmat; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
 • Pasianssit: Klondike, Hämähäkki, Vapaat Solut, Pyramidi, Kolme Huippua, Golf, Yukon, Skorpioni, Neljäkymmentä Rosvoa, Canfield, Haitari, Kello
-• Tikkipelit: Batak, Hertat, Pata, Whist, Tarkka Ennuste, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Lampaanpää, Sopimusbridge, Bezique, Ranskalainen tarokki, Tarneeb, Trix, Baloot, Hokm, Kaksikymmentäyhdeksän
+• Tikkipelit: Batak, Hertat, Pata, Whist, Tarkka Ennuste, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Lampaanpää, Sopimusbridge, Bezique, Ranskalainen tarokki, Tarneeb, Trix, Baloot, Hokm, Kaksikymmentäyhdeksän, Doppelkopf
 • Pöytäpelit: Pişti, Scopa, Laske ja Ota, Maa Mätsää, Korttitaisto, Puheenjohtaja, Yksinäinen Kuningas, Neloskalastus, Bluffipino, Kolmekymmentäyksi
-• Rommi ja muut: Gin Rummy, Rommi, Konken, Tehtävärommi, Kanasta, Käsi ja Jalka, Cribbage, Durak
+• Rommi ja muut: Gin Rummy, Rommi, Konken, Tehtävärommi, Kanasta, Käsi ja Jalka, Cribbage, Durak, Chinchón, Burako
 • Reaaliaikaiset: Nappaa Pari, Vauhti, Nertz, Kemps
 • Pulmat ja muisti: Korttipolku, Korttineliö, Korttimuisti
 • Muunnelmapaketit: Batak-muunnelmat (5), Pasianssivalikoima (100)

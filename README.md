@@ -59,5 +59,8 @@ Kart ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Tarok | [oyun-tarok](https://github.com/taktemurr-ops/oyun-tarok) |
 | Kart Yolu | [oyun-kart-yolu](https://github.com/taktemurr-ops/oyun-kart-yolu) |
 | Kart Karesi | [oyun-kart-karesi](https://github.com/taktemurr-ops/oyun-kart-karesi) |
+| Çinçon | [oyun-cincon](https://github.com/taktemurr-ops/oyun-cincon) |
+| Burako | [oyun-burako](https://github.com/taktemurr-ops/oyun-burako) |
+| Doppelkopf | [oyun-doppelkopf](https://github.com/taktemurr-ops/oyun-doppelkopf) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kart-oyunlari/releases/download/test/merkez-kart-oyunlari.apk

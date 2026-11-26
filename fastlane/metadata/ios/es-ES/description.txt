@@ -1,9 +1,9 @@
-Juegos de Cartas reúne 60 juegos de cartas y 105 variantes en una sola app, con un diseño de cartas propio. Solitarios, clásicos contra rivales listos y puzles de cartas originales; cada juego guarda su progreso, misiones y logros.
+Juegos de Cartas reúne 63 juegos de cartas y 105 variantes en una sola app, con un diseño de cartas propio. Solitarios, clásicos contra rivales listos y puzles de cartas originales; cada juego guarda su progreso, misiones y logros.
 
 • Solitarios: Klondike, Araña, Celdas Libres, Pirámide, Tres Picos, Golf, Yukón, Escorpión, Cuarenta Ladrones, Canfield, Acordeón, Reloj
-• Juegos de bazas: Batak, Corazones, Picas, Whist, Cuenta Exacta, Brisca, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinacla, Skat, Cabeza de Oveja, Bridge de Contrato, Bezique, Tarot francés, Tarneeb, Trix, Baloot, Hokm, Veintinueve
+• Juegos de bazas: Batak, Corazones, Picas, Whist, Cuenta Exacta, Brisca, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinacla, Skat, Cabeza de Oveja, Bridge de Contrato, Bezique, Tarot francés, Tarneeb, Trix, Baloot, Hokm, Veintinueve, Doppelkopf
 • Juegos de mesa: Pişti, Escoba, Suma y Toma, Empareja Palos, Batalla de Cartas, Presidente, El Rey Solo, Pesca de Cuatro, Pila de Faroles, Treinta y Uno
-• Rummy y más: Gin Rummy, Rummy, Konken, Rummy por Contratos, Canasta, Mano y Pie, Cribbage, Durak
+• Rummy y más: Gin Rummy, Rummy, Konken, Rummy por Contratos, Canasta, Mano y Pie, Cribbage, Durak, Chinchón, Burako
 • En tiempo real: Atrapa la Pareja, Velocidad, Nertz, Kemps
 • Puzles y memoria: Sendero de Cartas, Cuadro de Cartas, Memoria de Cartas
 • Paquetes de variantes: Variedad de Batak (5), Variedad de Solitarios (100)

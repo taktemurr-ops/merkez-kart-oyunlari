@@ -12,9 +12,12 @@ import 'package:oyun_bezik/oyun_bezik.dart';
 import 'package:oyun_blof/oyun_blof.dart';
 import 'package:oyun_bric_benzeri_whist/oyun_bric_benzeri_whist.dart';
 import 'package:oyun_briscola/oyun_briscola.dart';
+import 'package:oyun_burako/oyun_burako.dart';
 import 'package:oyun_canfield/oyun_canfield.dart';
+import 'package:oyun_cincon/oyun_cincon.dart';
 import 'package:oyun_clock_solitaire/oyun_clock_solitaire.dart';
 import 'package:oyun_cribbage/oyun_cribbage.dart';
+import 'package:oyun_doppelkopf/oyun_doppelkopf.dart';
 import 'package:oyun_durak/oyun_durak.dart';
 import 'package:oyun_el_ve_ayak/oyun_el_ve_ayak.dart';
 import 'package:oyun_euchre/oyun_euchre.dart';
@@ -203,6 +206,9 @@ final hubConfig = HubConfig(
     yirmidokuzConfig,
     kartYoluConfig,
     kartKaresiConfig,
+    cinconConfig,
+    burakoConfig,
+    doppelkopfConfig,
   ],
   starters: ['oyun-klondike-solitaire', 'oyun-batak', 'oyun-pisti'],
   groups: [batakCesitGroup, solCesitGroup],
@@ -269,6 +275,9 @@ final hubConfig = HubConfig(
     'oyun-toplam-al': GameCover('kc_toplam'),
     'oyun-tripeaks-solitaire': GameCover('kc_tripeaks'),
     'oyun-yukon-solitaire': GameCover('kc_yukon'),
+    'oyun-cincon': GameCover('k4_chinchon'),
+    'oyun-burako': GameCover('k4_burako'),
+    'oyun-doppelkopf': GameCover('k4_doppelkopf'),
   },
   defaultCover: const GameCover('cards'),
   sections: [
@@ -345,7 +354,7 @@ final hubConfig = HubConfig(
           'Bài ăn nước',
           'Trick-taking',
         ],
-        ids: ['oyun-batak', 'oyun-batak-cesitleri', 'oyun-hearts', 'oyun-spades', 'oyun-bric-benzeri-whist', 'oyun-oh-hell', 'oyun-briscola', 'oyun-sueca', 'oyun-king', 'oyun-euchre', 'oyun-belot', 'oyun-klaverjas', 'oyun-jass', 'oyun-pinokl', 'oyun-skat', 'oyun-koyun-basi', 'oyun-kontrat-bric', 'oyun-bezik', 'oyun-tarok', 'oyun-tarneeb', 'oyun-trix', 'oyun-baloot', 'oyun-hokm', 'oyun-yirmi-dokuz']),
+        ids: ['oyun-batak', 'oyun-batak-cesitleri', 'oyun-hearts', 'oyun-spades', 'oyun-bric-benzeri-whist', 'oyun-oh-hell', 'oyun-briscola', 'oyun-sueca', 'oyun-king', 'oyun-euchre', 'oyun-belot', 'oyun-klaverjas', 'oyun-jass', 'oyun-pinokl', 'oyun-skat', 'oyun-koyun-basi', 'oyun-kontrat-bric', 'oyun-bezik', 'oyun-tarok', 'oyun-tarneeb', 'oyun-trix', 'oyun-baloot', 'oyun-hokm', 'oyun-yirmi-dokuz', 'oyun-doppelkopf']),
     HubSection(
         title: [
           'Aile kart oyunları',
@@ -419,7 +428,7 @@ final hubConfig = HubConfig(
           'Rummy và hơn nữa',
           'Rummy at iba pa',
         ],
-        ids: ['oyun-gin-remi', 'oyun-kart-remi', 'oyun-konken', 'oyun-asamali-remi', 'oyun-kanasta', 'oyun-el-ve-ayak', 'oyun-cribbage', 'oyun-durak']),
+        ids: ['oyun-gin-remi', 'oyun-kart-remi', 'oyun-konken', 'oyun-asamali-remi', 'oyun-kanasta', 'oyun-el-ve-ayak', 'oyun-cribbage', 'oyun-durak', 'oyun-cincon', 'oyun-burako']),
     HubSection(
         title: [
           'Gerçek zamanlı',

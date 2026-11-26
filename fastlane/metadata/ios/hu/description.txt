@@ -1,9 +1,9 @@
-A(z) Kártyajátékok 60 kártyajátékot és 105 változatot hoz egy appba, saját kártyadizájnnal. Pasziánszok, klasszikusok okos ellenfelek ellen és eredeti kártyarejtvények; minden játéknak saját haladása, küldetései és eredményei vannak.
+A(z) Kártyajátékok 63 kártyajátékot és 105 változatot hoz egy appba, saját kártyadizájnnal. Pasziánszok, klasszikusok okos ellenfelek ellen és eredeti kártyarejtvények; minden játéknak saját haladása, küldetései és eredményei vannak.
 
 • Pasziánsz: Klondike, Pók, Szabad Cellák, Piramis, Három Csúcs, Golf, Yukon, Skorpió, Negyven Rabló, Canfield, Harmonika, Óra
-• Ütésszerző: Batak, Kőr, Pikk, Whist, Pontos Bemondás, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Birkafej, Kontrakt Bridzs, Bezique, Francia tarokk, Tarneeb, Trix, Baloot, Hokm, Huszonkilenc
+• Ütésszerző: Batak, Kőr, Pikk, Whist, Pontos Bemondás, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Birkafej, Kontrakt Bridzs, Bezique, Francia tarokk, Tarneeb, Trix, Baloot, Hokm, Huszonkilenc, Doppelkopf
 • Asztali játékok: Pişti, Scopa, Add Össze, Vidd, Színre Szín, Kártyacsata, Elnök, A Magányos Király, Négyes Halászat, Blöffkupac, Harmincegy
-• Römi és még több: Gin Römi, Römi, Konken, Feladatos Römi, Kanaszta, Kéz és Láb, Cribbage, Durák
+• Römi és még több: Gin Römi, Römi, Konken, Feladatos Römi, Kanaszta, Kéz és Láb, Cribbage, Durák, Chinchón, Burako
 • Valós idejű: Kapd el a Párt, Gyorsaság, Nertz, Kemps
 • Rejtvény és memória: Kártyaösvény, Kártyanégyzet, Kártyamemória
 • Változatcsomagok: Batak Változatok (5), Pasziánszválogatás (100)

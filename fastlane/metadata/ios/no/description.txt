@@ -1,9 +1,9 @@
-Kortspill samler 60 kortspill og 105 varianter i én app med vårt eget kortdesign. Kabaler, klassikere mot smarte motstandere og originale kortgåter; hvert spill har egen fremgang, oppdrag og prestasjoner.
+Kortspill samler 63 kortspill og 105 varianter i én app med vårt eget kortdesign. Kabaler, klassikere mot smarte motstandere og originale kortgåter; hvert spill har egen fremgang, oppdrag og prestasjoner.
 
 • Kabaler: Klondike, Edderkopp, Frie Celler, Pyramide, Tre Topper, Golf, Yukon, Skorpion, Førti Røvere, Canfield, Trekkspill, Klokka
-• Stikkspill: Batak, Hjerter, Spar, Whist, Nøyaktig Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Sauehode, Kontraktbridge, Bezique, Fransk tarok, Tarneeb, Trix, Baloot, Hokm, Tjueni
+• Stikkspill: Batak, Hjerter, Spar, Whist, Nøyaktig Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Sauehode, Kontraktbridge, Bezique, Fransk tarok, Tarneeb, Trix, Baloot, Hokm, Tjueni, Doppelkopf
 • Bordspill: Pişti, Scopa, Legg Sammen og Ta, Match Fargen, Kortkamp, Formann, Den Ensomme Kongen, Fisk etter Firere, Bløffbunken, Trettien
-• Rummy og mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hånd og Fot, Cribbage, Durak
+• Rummy og mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hånd og Fot, Cribbage, Durak, Chinchón, Burako
 • Sanntid: Snapp, Fart, Nertz, Kemps
 • Gåter og hukommelse: Kortstien, Kortkvadrat, Kortminne
 • Variantpakker: Batakvarianter (5), Kabalvariasjon (100)

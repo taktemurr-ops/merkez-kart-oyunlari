@@ -1,9 +1,9 @@
-Kortspel samlar 60 kortspel och 105 varianter i en app, med egen kortdesign. Patienser, klassiker mot smarta motståndare och egna kortpussel; varje spel har egna framsteg, uppdrag och prestationer.
+Kortspel samlar 63 kortspel och 105 varianter i en app, med egen kortdesign. Patienser, klassiker mot smarta motståndare och egna kortpussel; varje spel har egna framsteg, uppdrag och prestationer.
 
 • Patienser: Klondike, Spindel, Fria Celler, Pyramid, Tre Toppar, Golf, Yukon, Skorpion, Fyrtio Rövare, Canfield, Dragspel, Klockan
-• Stickspel: Batak, Hjärter, Spader, Whist, Exakt Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Fårhuvud, Kontraktbridge, Bezique, Fransk tarock, Tarneeb, Trix, Baloot, Hokm, Tjugonio
+• Stickspel: Batak, Hjärter, Spader, Whist, Exakt Bud, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Fårhuvud, Kontraktbridge, Bezique, Fransk tarock, Tarneeb, Trix, Baloot, Hokm, Tjugonio, Doppelkopf
 • Bordsspel: Pişti, Scopa, Summa och Ta, Matcha Färgen, Kortstrid, Ordförande, Den Ensamma Kungen, Fiska Fyrtal, Bluffhögen, Trettioett
-• Rummy och mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hand och Fot, Cribbage, Durak
+• Rummy och mer: Gin Rummy, Rummy, Konken, Kontraktrummy, Canasta, Hand och Fot, Cribbage, Durak, Chinchón, Burako
 • Realtid: Snap, Fart, Nertz, Kemps
 • Pussel och minne: Kortstigen, Kortkvadrat, Kortminne
 • Variantpaket: Batakvarianter (5), Patiensvariation (100)

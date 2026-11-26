@@ -1,9 +1,9 @@
-Kartenspiele vereint 60 Kartenspiele und 105 Varianten in einer App, mit eigenem Kartendesign. Patiencen, Klassiker gegen clevere Gegner und eigene Kartenrätsel; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Kartenspiele vereint 63 Kartenspiele und 105 Varianten in einer App, mit eigenem Kartendesign. Patiencen, Klassiker gegen clevere Gegner und eigene Kartenrätsel; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
 • Patiencen: Klondike, Spinne, Freie Zellen, Pyramide, Drei Gipfel, Golf, Yukon, Skorpion, Vierzig Räuber, Canfield, Akkordeon, Uhr
-• Stichspiele: Batak, Herzen, Pik, Whist, Genau Geboten, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Binokel, Skat, Schafkopf, Kontrakt-Bridge, Bézique, Französisches Tarock, Tarneeb, Trix, Baloot, Hokm, Neunundzwanzig
+• Stichspiele: Batak, Herzen, Pik, Whist, Genau Geboten, Briscola, Sueca, King, Euchre, Belote, Klaverjas, Jass, Binokel, Skat, Schafkopf, Kontrakt-Bridge, Bézique, Französisches Tarock, Tarneeb, Trix, Baloot, Hokm, Neunundzwanzig, Doppelkopf
 • Tischspiele: Pişti, Scopa, Summenfang, Farbe Passt, Kartenschlacht, Vorsitz, Schwarzer König, Viererfang, Bluffstapel, Einunddreißig
-• Rommé und mehr: Gin Rommé, Rommé, Konken, Kontrakt-Rommé, Canasta, Hand und Fuß, Cribbage, Durak
+• Rommé und mehr: Gin Rommé, Rommé, Konken, Kontrakt-Rommé, Canasta, Hand und Fuß, Cribbage, Durak, Chinchón, Burako
 • Echtzeit: Schnapp, Tempo, Nertz, Kemps
 • Rätsel und Gedächtnis: Kartenpfad, Kartenquadrat, Kartengedächtnis
 • Variantenpakete: Batak-Vielfalt (5), Patience-Vielfalt (100)

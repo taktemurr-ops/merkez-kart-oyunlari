@@ -1,9 +1,9 @@
-Jogos de Cartas reúne 60 jogos de cartas e 105 variações em um só app, com nosso próprio design de cartas. Paciências, clássicos contra rivais espertos e quebra-cabeças de cartas originais; cada jogo tem seu progresso, missões e conquistas.
+Jogos de Cartas reúne 63 jogos de cartas e 105 variações em um só app, com nosso próprio design de cartas. Paciências, clássicos contra rivais espertos e quebra-cabeças de cartas originais; cada jogo tem seu progresso, missões e conquistas.
 
 • Paciências: Klondike, Aranha, Células Livres, Pirâmide, Três Picos, Golfe, Yukon, Escorpião, Quarenta Ladrões, Canfield, Acordeão, Relógio
-• Jogos de vazas: Batak, Copas, Espadas, Whist, Palpite Exato, Bisca, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Cabeça de Ovelha, Bridge de Contrato, Bezique, Tarô francês, Tarneeb, Trix, Baloot, Hokm, Vinte e nove
+• Jogos de vazas: Batak, Copas, Espadas, Whist, Palpite Exato, Bisca, Sueca, King, Euchre, Belote, Klaverjas, Jass, Pinochle, Skat, Cabeça de Ovelha, Bridge de Contrato, Bezique, Tarô francês, Tarneeb, Trix, Baloot, Hokm, Vinte e nove, Doppelkopf
 • Jogos de mesa: Pişti, Escova, Some e Pegue, Combine o Naipe, Batalha de Cartas, Presidente, O Rei Sozinho, Pesca de Quadras, Pilha do Blefe, Trinta e Um
-• Buraco e mais: Gin Rummy, Rummy, Konken, Rummy de Contratos, Canastra, Mão e Pé, Cribbage, Durak
+• Buraco e mais: Gin Rummy, Rummy, Konken, Rummy de Contratos, Canastra, Mão e Pé, Cribbage, Durak, Chinchón
 • Em tempo real: Pegue o Par, Velocidade, Nertz, Kemps
 • Quebra-cabeças e memória: Trilha de Cartas, Quadrado de Cartas, Memória das Cartas
 • Pacotes de variações: Variantes de Batak (5), Variedade de Paciências (100)

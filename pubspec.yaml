@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 8eb30b12914d385b8e8560df8e23e01310fde0c3
+      ref: aaf7484211f3d39329b07860b54424543d496eed
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_klondike_solitaire:
     git:
@@ -263,6 +263,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-solitaire-cesitleri
       ref: e158c09ecb540250cb398505e4506ec459ad8724
+  oyun_cincon:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cincon
+      ref: ab54d38da5f57734a1b1d38b5ae6d56d96595932
+  oyun_burako:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-burako
+      ref: 4cfb3121cd38b386f357610e74e54d912a4f1d37
+  oyun_doppelkopf:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-doppelkopf
+      ref: 6045a9da348d9fd678d7d2194ceeddb20d3a0608
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -276,7 +288,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 8eb30b12914d385b8e8560df8e23e01310fde0c3
+      ref: aaf7484211f3d39329b07860b54424543d496eed
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
