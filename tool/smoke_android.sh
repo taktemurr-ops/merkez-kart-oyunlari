@@ -13,6 +13,9 @@ device_ok() { [ "$(T 15 adb shell getprop sys.boot_completed 2>/dev/null | tr -d
 infra() {
   echo "::warning::emulator lost during: $1"
   T 30 adb devices -l || true
+  echo "--- son monkey olayları ---"; tail -25 "smoke/$NAME-monkey.txt" 2>/dev/null || true
+  echo "--- canlı logcat (son 120 satır) ---"; tail -120 "smoke/$NAME-live-logcat.txt" 2>/dev/null || true
+  echo "--- nabız ---"; tail -15 "smoke/$NAME-heartbeat.txt" 2>/dev/null || true
   exit 2
 }
 # A hung or failed adb step fails fast with diagnostics instead of hitting
@@ -36,6 +39,15 @@ done
 sleep 10
 T 180 adb install -r build/app/outputs/flutter-apk/app-release.apk || hang "install"
 T 30 adb logcat -c || true
+# Emülatör düşerse son durumu görebilmek için canlı logcat ve nabız kaydı.
+adb logcat -v time '*:I' > "smoke/$NAME-live-logcat.txt" 2>&1 &
+LOGCAT_PID=$!
+( while true; do
+    echo "$(date +%T) $(T 8 adb shell 'cat /proc/loadavg; grep -E "MemAvailable" /proc/meminfo' 2>&1 | tr '\n' ' ')"
+    sleep 10
+  done ) > "smoke/$NAME-heartbeat.txt" 2>&1 &
+BEAT_PID=$!
+trap 'kill $LOGCAT_PID $BEAT_PID 2>/dev/null || true' EXIT
 T 60 adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1 || hang "launch"
 sleep 25
 T 90 adb exec-out screencap -p > "smoke/$NAME-start.png" || hang "screencap (start)"
