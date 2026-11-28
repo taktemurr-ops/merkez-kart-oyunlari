@@ -292,7 +292,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 37b3084100f979b6cdb6b92baf3883c72bda17cc
+      ref: 927c7f9d81ba9b5fe0bdf5a3296b0002b47972a3
 
 dev_dependencies:
   flutter_test:
